@@ -41,6 +41,8 @@
     D = Object.fromEntries(names.map((n, i) => [n, got[i]]));
     D.lessons = (D.lessons || []).slice().sort((a, b) => a.n - b.n);
     D.glossary = (D.glossary || []).slice().sort((a, b) => a.term.localeCompare(b.term));
+    D.history = await fetch('/data/market-history.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : [])).catch(() => []);
+    if (!Array.isArray(D.history)) D.history = [];
     D.editions = await fetch('/data/editions/index.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : [])).catch(() => []);
     D.editions = (Array.isArray(D.editions) ? D.editions : []).sort((a, b) => b.date.localeCompare(a.date));
     buildTerms();
@@ -111,10 +113,22 @@
     const ms = (ed ? ed.markets : D.markets) || [];
     const pick = STRIP.map((n) => ms.find((m) => m.name === n)).filter(Boolean);
     const list = (pick.length >= 6 ? pick : ms).slice(0, 6);
+    const upTo = b?.date || '9999';
     $('#tickers').innerHTML = list.map((m) => {
       const c = fmtChange(m.change_pct);
-      return `<div class="tick" title="${esc(m.note || '')}"><span class="n">${esc(m.name)}</span><span class="l">${esc(fmtLevel(m))}</span><span class="c ${c.cls}">${c.t}</span></div>`;
+      return `<div class="tick" title="${esc(m.note || '')}">${spark(m.name, upTo)}<span class="n">${esc(m.name)}</span><span class="l">${esc(fmtLevel(m))}</span><span class="c ${c.cls}">${c.t}</span></div>`;
     }).join('');
+  }
+
+  // trend line behind each ticker: the last month of closes, once there are 5+ papers' worth
+  function spark(name, upTo) {
+    const pts = D.history.filter((r) => r.name === name && r.date <= upTo && isFinite(Number(r.level)))
+      .sort((a, b) => a.date.localeCompare(b.date)).slice(-23).map((r) => Number(r.level));
+    if (pts.length < 5) return '';
+    const mn = Math.min(...pts), mx = Math.max(...pts), span = mx - mn || 1;
+    const d = pts.map((v, i) => `${i ? 'L' : 'M'}${(i / (pts.length - 1) * 200).toFixed(1)},${(38 - (v - mn) / span * 34).toFixed(1)}`).join('');
+    const cls = pts[pts.length - 1] >= pts[0] ? 'up' : 'down';
+    return `<svg class="spark ${cls}" viewBox="0 0 200 40" preserveAspectRatio="none" aria-hidden="true"><path class="area" d="${d}L200,40L0,40Z"/><path class="line" d="${d}"/></svg>`;
   }
 
   const currentLesson = () => D.lessons.find((l) => l.status === 'Today') || [...D.lessons].reverse().find((l) => l.status === 'Done') || D.lessons[0];
