@@ -1,0 +1,139 @@
+{
+ "date": "2026-11-02",
+ "brief": {
+  "date": "2026-11-02",
+  "headline": "A tech sell-off hit on Friday",
+  "standfirst": "The Nasdaq fell 2.9%, its worst day since June, as Intel crashed 29% and doubts grew over whether huge AI spending will pay off.",
+  "sections": [
+   {
+    "date": "2026-11-02",
+    "order": 2,
+    "section": "The big picture",
+    "text": "Thursday night's results from Intel and Amazon set the tone. Intel gave a much weaker forecast than expected and had its worst day since 1974, dragging chip makers worldwide lower, while Amazon's heavy spending plans (about $220bn of capex, money spent on data centres and equipment) kept worries about the cost of the AI boom alive. The S&P 500 fell 1.8% and the VIX 'fear gauge' jumped 13% to 19.4. Europe's Stoxx 600 dipped 0.4% as its tech shares had their worst day since July, but London's FTSE 100 edged up 0.1% thanks to AstraZeneca. Gold dropped nearly 4% on fears that central banks will keep raising rates. This morning US futures point slightly higher and oil is down about 3% on hopes of Middle East diplomacy."
+   },
+   {
+    "date": "2026-11-02",
+    "order": 4,
+    "section": "Today and this week",
+    "text": "Tonight (~21:00 UK): Apple's results, its first under new CEO John Ternus. Tuesday: the US midterm elections. Wednesday: Novo Nordisk's Q3 results. Thursday is busy: National Grid's half-year results and Ørsted's nine-month results in the morning, then the Bank of England at 12:00, where economists expect a rise in Bank Rate from 3.75% to 4% after September's inflation came in hotter than forecast. Friday 13:30: the US jobs report for October. Next week: US inflation on 10 Nov and Vestas on 11 Nov."
+   },
+   {
+    "date": "2026-11-02",
+    "order": 6,
+    "section": "Concept of the day",
+    "text": "Why diversify: Friday showed it live, with single chip shares down 4-6% and Intel down 29% while broad global funds fell less than 2%. Today's lesson goes through it, with a quiz."
+   }
+  ]
+ },
+ "markets": [
+  {
+   "name": "FTSE 100",
+   "kind": "Index",
+   "region": "UK",
+   "level": 10729.78,
+   "change_pct": 0.07,
+   "as_of": "2026-10-30",
+   "note": "UK's 100 biggest listed companies"
+  },
+  {
+   "name": "FTSE 250",
+   "kind": "Index",
+   "region": "UK",
+   "level": 24674.16,
+   "change_pct": 0.14,
+   "as_of": "2026-10-29",
+   "note": "The next 250: more tied to the UK economy"
+  },
+  {
+   "name": "S&P 500",
+   "kind": "Index",
+   "region": "US",
+   "level": 7580.07,
+   "change_pct": -1.82,
+   "as_of": "2026-10-30",
+   "note": "500 large US companies"
+  },
+  {
+   "name": "Nasdaq",
+   "kind": "Index",
+   "region": "US",
+   "level": 25437.0,
+   "change_pct": -2.86,
+   "as_of": "2026-10-30",
+   "note": "Tech-heavy US index"
+  },
+  {
+   "name": "Stoxx 600",
+   "kind": "Index",
+   "region": "Europe",
+   "level": 646.75,
+   "change_pct": -0.36,
+   "as_of": "2026-10-30",
+   "note": "600 companies across Europe"
+  },
+  {
+   "name": "DAX",
+   "kind": "Index",
+   "region": "Europe",
+   "level": 25818.21,
+   "change_pct": -0.85,
+   "as_of": "2026-10-30",
+   "note": "Germany's 40 biggest companies"
+  },
+  {
+   "name": "GBP/USD",
+   "kind": "Currency",
+   "region": "FX",
+   "level": 1.3391,
+   "change_pct": 0.12,
+   "as_of": "2026-10-30",
+   "note": "Dollars per pound"
+  },
+  {
+   "name": "EUR/USD",
+   "kind": "Currency",
+   "region": "FX",
+   "level": 1.1158,
+   "change_pct": -0.18,
+   "as_of": "2026-10-30",
+   "note": "Dollars per euro"
+  },
+  {
+   "name": "Brent crude",
+   "kind": "Commodity",
+   "region": "Global",
+   "level": 114.88,
+   "change_pct": -0.38,
+   "as_of": "2026-10-29",
+   "note": "Oil, $ per barrel"
+  },
+  {
+   "name": "Gold",
+   "kind": "Commodity",
+   "region": "Global",
+   "level": 3874.62,
+   "change_pct": -3.89,
+   "as_of": "2026-10-30",
+   "note": "$ per ounce"
+  },
+  {
+   "name": "US 10-year yield",
+   "kind": "Rate",
+   "region": "US",
+   "level": 4.93,
+   "change_pct": -1.0,
+   "as_of": "2026-10-30",
+   "note": "Interest rate on US government debt, %"
+  },
+  {
+   "name": "VIX",
+   "kind": "Gauge",
+   "region": "US",
+   "level": 19.42,
+   "change_pct": 12.91,
+   "as_of": "2026-10-30",
+   "note": "'Fear gauge': expected US volatility"
+  }
+ ],
+ "lesson": 5
+}
