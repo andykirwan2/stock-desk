@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Stock Desk</title>
+<meta name="description" content="A morning paper for learning to invest: what the markets did, why it matters, and one short lesson a day. Not financial advice.">
+<meta property="og:title" content="The Stock Desk">
+<meta property="og:description" content="A morning paper for learning to invest. One short lesson a day.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23fbeee2'/%3E%3Ctext x='16' y='24' font-family='Georgia,serif' font-weight='800' font-size='22' text-anchor='middle' fill='%23262a2e'%3ES%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,800;1,6..72,400&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div class="page">
+  <header class="masthead">
+    <span class="mast-date" id="edition">&nbsp;</span>
+    <a href="#" class="mast-title"><h1>The Stock Desk</h1></a>
+    <span class="mast-tag">LEARNING TO INVEST · NOT ADVICE</span>
+  </header>
+  <div class="tickers" id="tickers" aria-label="Market closes"></div>
+  <nav class="sections" aria-label="Sections">
+    <a href="#" data-view="today">Today</a>
+    <a href="#lessons" data-view="lessons">Lessons</a>
+    <a href="#glossary" data-view="glossary">Jargon buster</a>
+  </nav>
+  <main id="view" aria-live="polite"><p class="loading">Printing…</p></main>
+  <footer class="foot">
+    <p>A learning project, not financial advice. Prices are the latest closes when the paper went out and may be delayed. Nothing here is a recommendation to buy or sell anything.</p>
+    <p>Made by <a href="https://ak-site-gamma.vercel.app/apps">andy kirwan</a>.</p>
+  </footer>
+</div>
+<script src="/app.js"></script>
+</body>
+</html>

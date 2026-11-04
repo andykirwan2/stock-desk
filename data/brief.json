@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-02",
+ "headline": "A tech sell-off hit on Friday",
+ "standfirst": "The Nasdaq fell 2.9%, its worst day since June, as Intel crashed 29% and doubts grew over whether huge AI spending will pay off.",
+ "sections": [
+  {
+   "date": "2026-11-02",
+   "order": 2,
+   "section": "The big picture",
+   "text": "Thursday night's results from Intel and Amazon set the tone. Intel gave a much weaker forecast than expected and had its worst day since 1974, dragging chip makers worldwide lower, while Amazon's heavy spending plans (about $220bn of capex, money spent on data centres and equipment) kept worries about the cost of the AI boom alive. The S&P 500 fell 1.8% and the VIX 'fear gauge' jumped 13% to 19.4. Europe's Stoxx 600 dipped 0.4% as its tech shares had their worst day since July, but London's FTSE 100 edged up 0.1% thanks to AstraZeneca. Gold dropped nearly 4% on fears that central banks will keep raising rates. This morning US futures point slightly higher and oil is down about 3% on hopes of Middle East diplomacy."
+  },
+  {
+   "date": "2026-11-02",
+   "order": 4,
+   "section": "Today and this week",
+   "text": "Tonight (~21:00 UK): Apple's results, its first under new CEO John Ternus. Tuesday: the US midterm elections. Wednesday: Novo Nordisk's Q3 results. Thursday is busy: National Grid's half-year results and Ørsted's nine-month results in the morning, then the Bank of England at 12:00, where economists expect a rise in Bank Rate from 3.75% to 4% after September's inflation came in hotter than forecast. Friday 13:30: the US jobs report for October. Next week: US inflation on 10 Nov and Vestas on 11 Nov."
+  },
+  {
+   "date": "2026-11-02",
+   "order": 6,
+   "section": "Concept of the day",
+   "text": "Why diversify: Friday showed it live, with single chip shares down 4-6% and Intel down 29% while broad global funds fell less than 2%. Today's lesson goes through it, with a quiz."
+  }
+ ]
+}

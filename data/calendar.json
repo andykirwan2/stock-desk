@@ -1,0 +1,155 @@
+[
+ {
+  "id": "c12",
+  "date": "2026-11-02",
+  "time_uk": "~21:00",
+  "event": "Apple Q4 FY26 results",
+  "kind": "Earnings",
+  "ticker": "AAPL",
+  "why": "First results call under new CEO John Ternus"
+ },
+ {
+  "id": "c25",
+  "date": "2026-11-03",
+  "time_uk": "",
+  "event": "US midterm elections",
+  "kind": "Policy",
+  "ticker": "",
+  "why": "Control of Congress shapes US tax, energy and trade policy; oil traders are also watching for US action on Iran afterwards"
+ },
+ {
+  "id": "c17",
+  "date": "2026-11-04",
+  "time_uk": "",
+  "event": "Novo Nordisk Q3 results",
+  "kind": "Earnings",
+  "ticker": "NOVO-B",
+  "why": "Weight-loss drug sales and pricing; date confirmed by Novo (call 12:00 UK)"
+ },
+ {
+  "id": "c26",
+  "date": "2026-11-05",
+  "time_uk": "07:00",
+  "event": "National Grid half-year results",
+  "kind": "Earnings",
+  "ticker": "NG.",
+  "why": "Big UK network investment plans and the dividend; date confirmed by National Grid"
+ },
+ {
+  "id": "c13",
+  "date": "2026-11-05",
+  "time_uk": "12:00",
+  "event": "Bank of England rate decision",
+  "kind": "Central bank",
+  "ticker": "",
+  "why": "Markets price over a 90% chance of a rise from 3.75% to 4%; affects the pound, gilts and UK shares"
+ },
+ {
+  "id": "c18",
+  "date": "2026-11-05",
+  "time_uk": "~07:00",
+  "event": "Ørsted nine-month results",
+  "kind": "Earnings",
+  "ticker": "ORSTED",
+  "why": "Offshore wind projects, costs and balance sheet repair"
+ },
+ {
+  "id": "c19",
+  "date": "2026-11-06",
+  "time_uk": "13:30",
+  "event": "US jobs report (October)",
+  "kind": "Data",
+  "ticker": "",
+  "why": "A strong jobs market makes a December Fed rate rise more likely"
+ },
+ {
+  "id": "c20",
+  "date": "2026-11-10",
+  "time_uk": "13:30",
+  "event": "US CPI inflation (October)",
+  "kind": "Data",
+  "ticker": "",
+  "why": "Key input for the Fed’s December decision"
+ },
+ {
+  "id": "c14",
+  "date": "2026-11-11",
+  "time_uk": "",
+  "event": "Vestas Q3 results",
+  "kind": "Earnings",
+  "ticker": "VWS",
+  "why": "Wind turbine orders and margins"
+ },
+ {
+  "id": "c21",
+  "date": "2026-11-12",
+  "time_uk": "07:00",
+  "event": "UK GDP (Q3 first estimate)",
+  "kind": "Data",
+  "ticker": "",
+  "why": "Shows how fast the UK economy grew over the summer"
+ },
+ {
+  "id": "c16",
+  "date": "2026-11-17",
+  "time_uk": "~21:20",
+  "event": "Nvidia Q3 results",
+  "kind": "Earnings",
+  "ticker": "NVDA",
+  "why": "the bellwether for AI spending. Date confirmed by Nvidia"
+ },
+ {
+  "id": "c15",
+  "date": "2026-11-18",
+  "time_uk": "07:00",
+  "event": "SSE half-year results",
+  "kind": "Earnings",
+  "ticker": "SSE",
+  "why": "networks profit and the dividend"
+ },
+ {
+  "id": "c22",
+  "date": "2026-11-18",
+  "time_uk": "07:00",
+  "event": "UK CPI inflation (October)",
+  "kind": "Data",
+  "ticker": "",
+  "why": "Shapes the Bank of England’s next steps on rates"
+ },
+ {
+  "id": "c27",
+  "date": "2026-11-18",
+  "time_uk": "07:00",
+  "event": "Severn Trent half-year results",
+  "kind": "Earnings",
+  "ticker": "SVT",
+  "why": "Water bills, investment and the dividend (date from MarketScreener)"
+ },
+ {
+  "id": "c23",
+  "date": "2026-11-25",
+  "time_uk": "13:30",
+  "event": "US PCE inflation (October)",
+  "kind": "Data",
+  "ticker": "",
+  "why": "The Fed’s preferred inflation measure"
+ },
+ {
+  "id": "c24",
+  "date": "2026-12-04",
+  "time_uk": "13:30",
+  "event": "US jobs report (November)",
+  "kind": "Data",
+  "ticker": "",
+  "why": "Last big jobs reading before the Fed’s 9 Dec decision"
+ },
+ {
+  "id": "c28",
+  "date": "2026-12-09",
+  "time_uk": "~19:00",
+  "event": "US Federal Reserve rate decision",
+  "kind": "Central bank",
+  "ticker": "",
+  "why": "Markets price about a 78% chance of a rate rise, with new Fed forecasts"
+ }
+]

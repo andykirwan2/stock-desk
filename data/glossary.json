@@ -1,0 +1,170 @@
+[
+ {
+  "term": "Share (stock, equity)",
+  "meaning": "A slice of ownership in a company."
+ },
+ {
+  "term": "Index",
+  "meaning": "A list of companies whose combined price tracks a market, like the FTSE 100."
+ },
+ {
+  "term": "Fund",
+  "meaning": "A pot of many investors' money, spread across many holdings by a manager."
+ },
+ {
+  "term": "ETF",
+  "meaning": "A fund that trades on a stock exchange like a share. Most track an index."
+ },
+ {
+  "term": "Investment trust",
+  "meaning": "A company listed in London whose business is owning other investments, such as wind farms."
+ },
+ {
+  "term": "Dividend",
+  "meaning": "Cash a company pays to shareholders out of its profits."
+ },
+ {
+  "term": "GBX / pence",
+  "meaning": "How London quotes most prices. 2,485p is £24.85."
+ },
+ {
+  "term": "Market cap",
+  "meaning": "Share price times number of shares: what the market says the whole company is worth."
+ },
+ {
+  "term": "ISA",
+  "meaning": "A UK account where investment gains and dividends are tax-free, up to £20,000 paid in per tax year."
+ },
+ {
+  "term": "OCF",
+  "meaning": "Ongoing charges figure: a fund's yearly fee, taken from inside the fund."
+ },
+ {
+  "term": "Stamp duty",
+  "meaning": "A 0.5% UK tax when you buy most UK shares. ETFs are exempt."
+ },
+ {
+  "term": "FX fee",
+  "meaning": "What a platform charges to convert pounds into dollars or euros to buy a foreign share."
+ },
+ {
+  "term": "Spread",
+  "meaning": "The gap between the price you can buy at and the price you can sell at."
+ },
+ {
+  "term": "Fractional share",
+  "meaning": "Part of one share, so £300 can buy into a £1,200 share."
+ },
+ {
+  "term": "Volatility",
+  "meaning": "How much and how fast a price swings."
+ },
+ {
+  "term": "Benchmark",
+  "meaning": "A yardstick, usually an index fund, to judge your results against."
+ },
+ {
+  "term": "Basis point (bp)",
+  "meaning": "One hundredth of a percentage point. A yield rising 25bp goes from 4.00% to 4.25%."
+ },
+ {
+  "term": "Yield (bond)",
+  "meaning": "The interest rate a government or company pays to borrow, as a % per year."
+ },
+ {
+  "term": "Results / earnings",
+  "meaning": "A company's report of sales and profits for a quarter or half-year."
+ },
+ {
+  "term": "IPO",
+  "meaning": "Initial public offering: a company selling shares to the public for the first time."
+ },
+ {
+  "term": "ESG",
+  "meaning": "Environmental, social and governance: rules used to screen out or favour companies."
+ },
+ {
+  "term": "Bid and ask",
+  "meaning": "The bid is the best price a buyer will pay right now; the ask (or offer) is the lowest price a seller will accept."
+ },
+ {
+  "term": "Order book",
+  "meaning": "The live list of buy and sell orders for a share, showing how many shares people want to trade at each price."
+ },
+ {
+  "term": "Market maker",
+  "meaning": "A firm that is always ready to buy and sell a share, earning the spread in return."
+ },
+ {
+  "term": "After-hours trading",
+  "meaning": "Buying and selling that happens after the main exchange session closes, often when companies release results."
+ },
+ {
+  "term": "PCE inflation",
+  "meaning": "The US inflation measure the Federal Reserve watches most closely, based on what people actually spend money on."
+ },
+ {
+  "term": "Market-cap weighting",
+  "meaning": "Building an index so bigger companies (by total market value) count for more of its moves than smaller ones."
+ },
+ {
+  "term": "Gilt",
+  "meaning": "A bond issued by the UK government; its yield is the interest rate the government pays to borrow."
+ },
+ {
+  "term": "Capex",
+  "meaning": "Capital expenditure: money a company spends on long-lasting things like data centres, factories or equipment."
+ },
+ {
+  "term": "Free cash flow",
+  "meaning": "The cash a business has left after paying its running costs and its capex."
+ },
+ {
+  "term": "Market breadth",
+  "meaning": "How many shares are rising versus falling, which shows whether a market move is broad or driven by a few big names."
+ },
+ {
+  "term": "Bank Rate",
+  "meaning": "The Bank of England's main interest rate, which influences mortgage, savings and borrowing rates across the UK."
+ },
+ {
+  "term": "Tracker fund",
+  "meaning": "A fund that simply copies an index, such as the FTSE 100, instead of having a manager pick shares; it is usually cheap."
+ },
+ {
+  "term": "Net asset value (NAV)",
+  "meaning": "The value of everything a fund or investment trust owns, minus its debts, usually given per share."
+ },
+ {
+  "term": "Discount",
+  "meaning": "When an investment trust's share price is below its NAV; the opposite, a price above NAV, is a premium."
+ },
+ {
+  "term": "Share buyback",
+  "meaning": "When a company uses spare cash to buy back its own shares, leaving each remaining share a bigger slice of the company."
+ },
+ {
+  "term": "Guidance",
+  "meaning": "The forecast a company gives for its own future sales or profits."
+ },
+ {
+  "term": "GDP",
+  "meaning": "Gross domestic product: the total value of everything an economy produces, the main measure of growth."
+ },
+ {
+  "term": "Diversification",
+  "meaning": "Spreading your money across many different investments so that one bad result can't do too much damage."
+ },
+ {
+  "term": "Correlation",
+  "meaning": "How closely two investments move together; highly correlated shares tend to rise and fall at the same time."
+ },
+ {
+  "term": "VIX",
+  "meaning": "An index of how much turbulence investors expect in US shares over the next month, often called the 'fear gauge'."
+ },
+ {
+  "term": "Semiconductor",
+  "meaning": "A computer chip, or the industry that designs, makes and supplies the machines for making chips."
+ }
+]

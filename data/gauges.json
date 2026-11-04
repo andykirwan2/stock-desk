@@ -1,0 +1,52 @@
+[
+ {
+  "id": "g1",
+  "gauge": "S&P 500 vs its 52-week high",
+  "value": -3.37,
+  "unit": "%",
+  "reading": "Close to the top",
+  "detail": "At 7,580.07 the S&P 500 is about 3.4% below its 52-week closing high of 7,844.52, after its worst day since June on Friday. Pullbacks of a few per cent happen several times in a typical year; for a long-term investor they are normal weather, not a signal.",
+  "source": "AP closing figures via Yahoo Finance, 30 Oct (high from Reuters, 29 Oct)",
+  "as_of": "2026-10-30"
+ },
+ {
+  "id": "g2",
+  "gauge": "Market breadth (Nasdaq)",
+  "value": null,
+  "unit": "",
+  "reading": "Mixed",
+  "detail": "On Thursday rising Nasdaq stocks narrowly beat fallers (2,464 to 2,308), yet the index fell 1.4% because a few giants like Alphabet dropped hard; 191 stocks hit 52-week lows against 88 highs. When most shares rise but the index falls, it shows how much a handful of huge companies steer it.",
+  "source": "Reuters market wrap, 29 Oct",
+  "as_of": "2026-10-29"
+ },
+ {
+  "id": "g3",
+  "gauge": "US 10-year government bond yield",
+  "value": 4.93,
+  "unit": "%",
+  "reading": "High",
+  "detail": "The US 10-year yield edged down to about 4.93% on Friday as investors sold shares. Safe government bonds paying close to 5% set a high bar that shares have to beat, which is one reason pricey tech shares are being questioned.",
+  "source": "Trading Economics and Investopedia, 30 Oct",
+  "as_of": "2026-10-30"
+ },
+ {
+  "id": "g4",
+  "gauge": "Interest rate expectations",
+  "value": null,
+  "unit": "",
+  "reading": "Rises expected",
+  "detail": "Markets put about a 78% chance on a Fed rate rise on 9 December (down from 84%) and fully price a Bank of England rise from 3.75% to 4% next Thursday, 5 November. The ECB held at 2.50% on Thursday but left the door open to a December rise.",
+  "source": "CappNotes (CME FedWatch) and Trading Economics, 29 Oct",
+  "as_of": "2026-10-29"
+ },
+ {
+  "id": "g5",
+  "gauge": "Oil (Brent crude)",
+  "value": 114.88,
+  "unit": "$",
+  "reading": "Expensive",
+  "detail": "Brent slipped 0.4% to $114.88 a barrel as talk of US-Iran diplomacy and Europe's plan to release emergency reserves offset fresh supply worries. Dear oil keeps inflation high, which is the main reason central banks are leaning towards rate rises.",
+  "source": "Reuters and Rigzone, 29 Oct settle",
+  "as_of": "2026-10-29"
+ }
+]
