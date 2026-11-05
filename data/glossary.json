@@ -166,5 +166,21 @@
  {
   "term": "Semiconductor",
   "meaning": "A computer chip, or the industry that designs, makes and supplies the machines for making chips."
+ },
+ {
+  "term": "Drawdown",
+  "meaning": "How far an investment has fallen from its previous peak, in per cent, before it recovers."
+ },
+ {
+  "term": "ADR",
+  "meaning": "American depositary receipt: a certificate traded in New York that stands for shares in a foreign company, such as Novo Nordisk."
+ },
+ {
+  "term": "Midterm elections",
+  "meaning": "US elections held halfway through a president's four-year term, deciding control of Congress (the House and Senate)."
+ },
+ {
+  "term": "Risk tolerance",
+  "meaning": "How much ups and downs in value you can live with, both in money and in nerves, without selling at the wrong time."
  }
 ]

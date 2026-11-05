@@ -2,32 +2,32 @@
  {
   "id": "g1",
   "gauge": "S&P 500 vs its 52-week high",
-  "value": -3.37,
+  "value": -1.99,
   "unit": "%",
   "reading": "Close to the top",
-  "detail": "At 7,580.07 the S&P 500 is about 3.4% below its 52-week closing high of 7,844.52, after its worst day since June on Friday. Pullbacks of a few per cent happen several times in a typical year; for a long-term investor they are normal weather, not a signal.",
-  "source": "AP closing figures via Yahoo Finance, 30 Oct (high from Reuters, 29 Oct)",
-  "as_of": "2026-10-30"
+  "detail": "The S&P 500 closed at 7,688.62 on Wednesday, about 2.0% below its 52-week closing high of 7,844.52, after its best day in three months. It has recovered about half of last week's tech-led dip; small pullbacks like this are normal for a long-term investor.",
+  "source": "CappNotes and TheStreet closing figures, 4 Nov (high from Reuters, 29 Oct)",
+  "as_of": "2026-11-04"
  },
  {
   "id": "g2",
   "gauge": "Market breadth (Nasdaq)",
   "value": null,
   "unit": "",
-  "reading": "Mixed",
-  "detail": "On Thursday rising Nasdaq stocks narrowly beat fallers (2,464 to 2,308), yet the index fell 1.4% because a few giants like Alphabet dropped hard; 191 stocks hit 52-week lows against 88 highs. When most shares rise but the index falls, it shows how much a handful of huge companies steer it.",
-  "source": "Reuters market wrap, 29 Oct",
-  "as_of": "2026-10-29"
+  "reading": "Broad",
+  "detail": "Wednesday's rally was wide: across the S&P 500, 400, 600 and Nasdaq-100 members, rising shares beat fallers about three to one (1,122 to 379), and the equal-weight S&P 500 rose more than the normal one. When most shares rise together, a rally rests on more than a few giants.",
+  "source": "CappNotes closing breadth, 4 Nov (Nasdaq Composite new highs/lows not available)",
+  "as_of": "2026-11-04"
  },
  {
   "id": "g3",
   "gauge": "US 10-year government bond yield",
-  "value": 4.93,
+  "value": 4.89,
   "unit": "%",
   "reading": "High",
-  "detail": "The US 10-year yield edged down to about 4.93% on Friday as investors sold shares. Safe government bonds paying close to 5% set a high bar that shares have to beat, which is one reason pricey tech shares are being questioned.",
-  "source": "Trading Economics and Investopedia, 30 Oct",
-  "as_of": "2026-10-30"
+  "detail": "The US 10-year yield fell about 6 basis points to 4.89%, near its lowest in more than a year, as cheaper oil eased inflation worries. Safe bonds paying nearly 5% still set a high bar for shares to beat.",
+  "source": "CappNotes, 4 Nov (Strategitz: 4.90%)",
+  "as_of": "2026-11-04"
  },
  {
   "id": "g4",
@@ -35,18 +35,18 @@
   "value": null,
   "unit": "",
   "reading": "Rises expected",
-  "detail": "Markets put about a 78% chance on a Fed rate rise on 9 December (down from 84%) and fully price a Bank of England rise from 3.75% to 4% next Thursday, 5 November. The ECB held at 2.50% on Thursday but left the door open to a December rise.",
-  "source": "CappNotes (CME FedWatch) and Trading Economics, 29 Oct",
-  "as_of": "2026-10-29"
+  "detail": "The Bank of England is widely expected to raise Bank Rate from 3.75% to 4% at noon today, its first rise since 2023. Futures put about a 77% chance on a US Fed rise on 9 December, little changed after the election.",
+  "source": "CappNotes (CME FedWatch), 4 Nov; IG Bank of England preview, 2 Nov",
+  "as_of": "2026-11-04"
  },
  {
   "id": "g5",
   "gauge": "Oil (Brent crude)",
-  "value": 114.88,
+  "value": 94.62,
   "unit": "$",
   "reading": "Expensive",
-  "detail": "Brent slipped 0.4% to $114.88 a barrel as talk of US-Iran diplomacy and Europe's plan to release emergency reserves offset fresh supply worries. Dear oil keeps inflation high, which is the main reason central banks are leaning towards rate rises.",
-  "source": "Reuters and Rigzone, 29 Oct settle",
-  "as_of": "2026-10-29"
+  "detail": "Brent crude plunged 8.7% to $94.62 a barrel on Wednesday on hopes that pressure to end the Iran war will grow after the US midterms. That is still above the $90 line, so oil keeps nudging inflation and interest rates up, but much less than at $115 last week.",
+  "source": "CappNotes settle, 4 Nov",
+  "as_of": "2026-11-04"
  }
 ]

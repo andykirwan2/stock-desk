@@ -1,32 +1,5 @@
 [
  {
-  "id": "c12",
-  "date": "2026-11-02",
-  "time_uk": "~21:00",
-  "event": "Apple Q4 FY26 results",
-  "kind": "Earnings",
-  "ticker": "AAPL",
-  "why": "First results call under new CEO John Ternus"
- },
- {
-  "id": "c25",
-  "date": "2026-11-03",
-  "time_uk": "",
-  "event": "US midterm elections",
-  "kind": "Policy",
-  "ticker": "",
-  "why": "Control of Congress shapes US tax, energy and trade policy; oil traders are also watching for US action on Iran afterwards"
- },
- {
-  "id": "c17",
-  "date": "2026-11-04",
-  "time_uk": "",
-  "event": "Novo Nordisk Q3 results",
-  "kind": "Earnings",
-  "ticker": "NOVO-B",
-  "why": "Weight-loss drug sales and pricing; date confirmed by Novo (call 12:00 UK)"
- },
- {
   "id": "c26",
   "date": "2026-11-05",
   "time_uk": "07:00",
@@ -42,7 +15,7 @@
   "event": "Bank of England rate decision",
   "kind": "Central bank",
   "ticker": "",
-  "why": "Markets price over a 90% chance of a rise from 3.75% to 4%; affects the pound, gilts and UK shares"
+  "why": "Widely expected to raise Bank Rate from 3.75% to 4%, the first rise since 2023; watch the vote split. Affects the pound, gilts and UK shares"
  },
  {
   "id": "c18",
@@ -96,7 +69,7 @@
   "event": "Nvidia Q3 results",
   "kind": "Earnings",
   "ticker": "NVDA",
-  "why": "the bellwether for AI spending. Date confirmed by Nvidia"
+  "why": "The bellwether for AI spending. Date confirmed by Nvidia"
  },
  {
   "id": "c15",
@@ -105,7 +78,7 @@
   "event": "SSE half-year results",
   "kind": "Earnings",
   "ticker": "SSE",
-  "why": "networks profit and the dividend"
+  "why": "Networks profit and the dividend"
  },
  {
   "id": "c22",
@@ -150,6 +123,6 @@
   "event": "US Federal Reserve rate decision",
   "kind": "Central bank",
   "ticker": "",
-  "why": "Markets price about a 78% chance of a rate rise, with new Fed forecasts"
+  "why": "Futures price about a 77% chance of a rate rise, with new Fed forecasts"
  }
 ]

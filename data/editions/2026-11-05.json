@@ -1,0 +1,139 @@
+{
+ "date": "2026-11-05",
+ "brief": {
+  "date": "2026-11-05",
+  "headline": "US shares had their best day in three months on Wednesday after Democrats won both houses of Congress in the midterm elections and oil plunged almost 9%",
+  "standfirst": "Cheaper oil eased inflation fears: the Dow jumped 3.0%, the S&P 500 rose 1.6% and the FTSE 100 had its best day since May.",
+  "sections": [
+   {
+    "date": "2026-11-05",
+    "order": 2,
+    "section": "The big picture",
+    "text": "The US midterm elections (the vote halfway through a president's term) handed Democrats control of both the House and Senate. Markets took it calmly, partly because oil tumbled on hopes that pressure to end the Iran war will grow: Brent crude fell 8.7% to $94.62. Cheaper oil eases inflation fears, so the US 10-year yield slipped to 4.89% and the Dow jumped 3.0%, with the S&P 500 up 1.6% and the Nasdaq up 1.4%. Europe joined in (Stoxx 600 +1.8%, DAX +2.2%) and the FTSE 100 rose about 1.9% to around 10,838, its best day since May, led by banks. The VIX 'fear gauge' dropped 20% to 16.6."
+   },
+   {
+    "date": "2026-11-05",
+    "order": 4,
+    "section": "Today and this week",
+    "text": "Today: National Grid's half-year results and Ørsted's nine-month results this morning, then the Bank of England at 12:00, where a rise in Bank Rate from 3.75% to 4% is widely expected, its first rise since 2023. Friday 13:30: the US jobs report for October. Next week: US inflation on Tuesday 10 Nov, Vestas results on 11 Nov and UK growth figures on 12 Nov. Nvidia reports on 17 Nov, and SSE and Severn Trent on 18 Nov, the same day as UK inflation."
+   },
+   {
+    "date": "2026-11-05",
+    "order": 6,
+    "section": "Concept of the day",
+    "text": "Risk and volatility: on Wednesday Microsoft jumped 6.7% and oil fell 8.7% while broad global funds moved about 1%. Today's lesson goes through it, with a quiz."
+   }
+  ]
+ },
+ "markets": [
+  {
+   "name": "FTSE 100",
+   "kind": "Index",
+   "region": "UK",
+   "level": 10838.0,
+   "change_pct": 1.88,
+   "as_of": "2026-11-04",
+   "note": "UK's 100 biggest listed companies"
+  },
+  {
+   "name": "FTSE 250",
+   "kind": "Index",
+   "region": "UK",
+   "level": 24674.16,
+   "change_pct": 0.14,
+   "as_of": "2026-10-29",
+   "note": "The next 250: more tied to the UK economy"
+  },
+  {
+   "name": "S&P 500",
+   "kind": "Index",
+   "region": "US",
+   "level": 7688.62,
+   "change_pct": 1.58,
+   "as_of": "2026-11-04",
+   "note": "500 large US companies"
+  },
+  {
+   "name": "Nasdaq",
+   "kind": "Index",
+   "region": "US",
+   "level": 25736.51,
+   "change_pct": 1.44,
+   "as_of": "2026-11-04",
+   "note": "Tech-heavy US index"
+  },
+  {
+   "name": "Stoxx 600",
+   "kind": "Index",
+   "region": "Europe",
+   "level": 657.4,
+   "change_pct": 1.82,
+   "as_of": "2026-11-04",
+   "note": "600 companies across Europe"
+  },
+  {
+   "name": "DAX",
+   "kind": "Index",
+   "region": "Europe",
+   "level": 26437.67,
+   "change_pct": 2.22,
+   "as_of": "2026-11-04",
+   "note": "Germany's 40 biggest companies"
+  },
+  {
+   "name": "GBP/USD",
+   "kind": "Currency",
+   "region": "FX",
+   "level": 1.3476,
+   "change_pct": 0.48,
+   "as_of": "2026-11-04",
+   "note": "Dollars per pound"
+  },
+  {
+   "name": "EUR/USD",
+   "kind": "Currency",
+   "region": "FX",
+   "level": 1.1235,
+   "change_pct": 0.39,
+   "as_of": "2026-11-04",
+   "note": "Dollars per euro"
+  },
+  {
+   "name": "Brent crude",
+   "kind": "Commodity",
+   "region": "Global",
+   "level": 94.62,
+   "change_pct": -8.67,
+   "as_of": "2026-11-04",
+   "note": "Oil, $ per barrel"
+  },
+  {
+   "name": "Gold",
+   "kind": "Commodity",
+   "region": "Global",
+   "level": 4070.2,
+   "change_pct": 3.29,
+   "as_of": "2026-11-04",
+   "note": "$ per ounce"
+  },
+  {
+   "name": "US 10-year yield",
+   "kind": "Rate",
+   "region": "US",
+   "level": 4.89,
+   "change_pct": -1.21,
+   "as_of": "2026-11-04",
+   "note": "Interest rate on US government debt, %"
+  },
+  {
+   "name": "VIX",
+   "kind": "Gauge",
+   "region": "US",
+   "level": 16.61,
+   "change_pct": -20.26,
+   "as_of": "2026-11-04",
+   "note": "'Fear gauge': expected US volatility"
+  }
+ ],
+ "lesson": 6
+}

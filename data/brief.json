@@ -1,25 +1,25 @@
 {
- "date": "2026-11-02",
- "headline": "A tech sell-off hit on Friday",
- "standfirst": "The Nasdaq fell 2.9%, its worst day since June, as Intel crashed 29% and doubts grew over whether huge AI spending will pay off.",
+ "date": "2026-11-05",
+ "headline": "US shares had their best day in three months on Wednesday after Democrats won both houses of Congress in the midterm elections and oil plunged almost 9%",
+ "standfirst": "Cheaper oil eased inflation fears: the Dow jumped 3.0%, the S&P 500 rose 1.6% and the FTSE 100 had its best day since May.",
  "sections": [
   {
-   "date": "2026-11-02",
+   "date": "2026-11-05",
    "order": 2,
    "section": "The big picture",
-   "text": "Thursday night's results from Intel and Amazon set the tone. Intel gave a much weaker forecast than expected and had its worst day since 1974, dragging chip makers worldwide lower, while Amazon's heavy spending plans (about $220bn of capex, money spent on data centres and equipment) kept worries about the cost of the AI boom alive. The S&P 500 fell 1.8% and the VIX 'fear gauge' jumped 13% to 19.4. Europe's Stoxx 600 dipped 0.4% as its tech shares had their worst day since July, but London's FTSE 100 edged up 0.1% thanks to AstraZeneca. Gold dropped nearly 4% on fears that central banks will keep raising rates. This morning US futures point slightly higher and oil is down about 3% on hopes of Middle East diplomacy."
+   "text": "The US midterm elections (the vote halfway through a president's term) handed Democrats control of both the House and Senate. Markets took it calmly, partly because oil tumbled on hopes that pressure to end the Iran war will grow: Brent crude fell 8.7% to $94.62. Cheaper oil eases inflation fears, so the US 10-year yield slipped to 4.89% and the Dow jumped 3.0%, with the S&P 500 up 1.6% and the Nasdaq up 1.4%. Europe joined in (Stoxx 600 +1.8%, DAX +2.2%) and the FTSE 100 rose about 1.9% to around 10,838, its best day since May, led by banks. The VIX 'fear gauge' dropped 20% to 16.6."
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-11-05",
    "order": 4,
    "section": "Today and this week",
-   "text": "Tonight (~21:00 UK): Apple's results, its first under new CEO John Ternus. Tuesday: the US midterm elections. Wednesday: Novo Nordisk's Q3 results. Thursday is busy: National Grid's half-year results and Ørsted's nine-month results in the morning, then the Bank of England at 12:00, where economists expect a rise in Bank Rate from 3.75% to 4% after September's inflation came in hotter than forecast. Friday 13:30: the US jobs report for October. Next week: US inflation on 10 Nov and Vestas on 11 Nov."
+   "text": "Today: National Grid's half-year results and Ørsted's nine-month results this morning, then the Bank of England at 12:00, where a rise in Bank Rate from 3.75% to 4% is widely expected, its first rise since 2023. Friday 13:30: the US jobs report for October. Next week: US inflation on Tuesday 10 Nov, Vestas results on 11 Nov and UK growth figures on 12 Nov. Nvidia reports on 17 Nov, and SSE and Severn Trent on 18 Nov, the same day as UK inflation."
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-11-05",
    "order": 6,
    "section": "Concept of the day",
-   "text": "Why diversify: Friday showed it live, with single chip shares down 4-6% and Intel down 29% while broad global funds fell less than 2%. Today's lesson goes through it, with a quiz."
+   "text": "Risk and volatility: on Wednesday Microsoft jumped 6.7% and oil fell 8.7% while broad global funds moved about 1%. Today's lesson goes through it, with a quiz."
   }
  ]
 }
