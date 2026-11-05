@@ -109,7 +109,7 @@
 
   function chrome(ed) {
     const b = ed ? ed.brief : D.brief;
-    $('#edition').textContent = b?.date ? `${longDate(b.date).toUpperCase()} · ${ed ? 'BACK ISSUE' : '7AM EDITION'}` : '';
+    $('#edition').textContent = b?.date ? `${longDate(b.date).toUpperCase()} · ${ed ? 'BACK ISSUE' : 'MORNING EDITION'}` : '';
     const ms = (ed ? ed.markets : D.markets) || [];
     const pick = STRIP.map((n) => ms.find((m) => m.name === n)).filter(Boolean);
     const list = (pick.length >= 6 ? pick : ms).slice(0, 6);

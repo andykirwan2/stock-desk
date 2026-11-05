@@ -2,7 +2,7 @@
 
 A morning paper for learning to invest. Static site: `index.html`, `style.css`, `app.js`, and the day's data in `data/`.
 
-The 7am routine rewrites the files in `data/` each weekday and commits them; Vercel redeploys on push.
+The weekday morning routine rewrites the files in `data/` each weekday and commits them; Vercel redeploys on push.
 
 | file | what it holds |
 | --- | --- |

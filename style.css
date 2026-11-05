@@ -47,6 +47,7 @@ a{color:var(--teal)} a:hover{color:var(--teal-dk)}
 .sections{display:flex;gap:22px;font-family:var(--sans);font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase}
 .sections a{color:var(--ink);text-decoration:none;padding-bottom:3px;border-bottom:2px solid transparent}
 .sections a[aria-current="page"]{border-bottom-color:var(--teal);color:var(--teal)}
+.made-by{font-family:"Courier Prime","Courier New",Courier,monospace}
 
 /* today */
 .front{display:grid;grid-template-columns:minmax(0,2.1fr) minmax(0,1fr);gap:36px}
@@ -142,3 +143,5 @@ a{color:var(--teal)} a:hover{color:var(--teal-dk)}
 .sections{flex-wrap:wrap;gap:8px 22px}
 .loading{font-style:italic;color:var(--muted)}
 :focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+/* on phones the four sections share one row instead of wrapping "back issues" onto its own line */
+@media (max-width:560px){.sections{flex-wrap:nowrap;gap:16px;overflow-x:auto;scrollbar-width:none;font-size:11.5px;letter-spacing:.06em}.sections::-webkit-scrollbar{display:none}.sections a{white-space:nowrap;flex:none}}
