@@ -1,0 +1,6 @@
+{
+  "name": "stock-desk",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node scripts/build.mjs" }
+}

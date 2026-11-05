@@ -45,8 +45,11 @@
     if (!Array.isArray(D.history)) D.history = [];
     D.editions = await fetch('/data/editions/index.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : [])).catch(() => []);
     D.editions = (Array.isArray(D.editions) ? D.editions : []).sort((a, b) => b.date.localeCompare(a.date));
+    // Real addresses for each lesson (made by the build), so links lead to pages search engines can find.
+    D.paths = await fetch('/data/lesson-paths.json').then((r) => (r.ok ? r.json() : {})).catch(() => ({}));
     buildTerms();
   }
+  const lessonHref = (n) => D.paths?.[n] || `#lesson-${n}`;
 
   // ---- tap-to-define: glossary words in running text become small buttons
   let TERMS = { map: new Map(), re: null };
@@ -90,7 +93,7 @@
     if (openTerm === t) return closeTip();
     closeTip();
     openTerm = t; t.setAttribute('aria-expanded', 'true');
-    tip.innerHTML = `<b>${esc(g.term)}</b><span>${esc(g.meaning)}</span><a href="#glossary">All the jargon →</a>`;
+    tip.innerHTML = `<b>${esc(g.term)}</b><span>${esc(g.meaning)}</span><a href="/jargon/">All the jargon →</a>`;
     tip.hidden = false;
     const r = t.getBoundingClientRect();
     const w = Math.min(320, document.documentElement.clientWidth - 32);
@@ -194,13 +197,13 @@
         <span class="label">${ed ? 'That day' : 'Today'}'s lesson · ${l.n} of ${D.lessons.length}</span>
         <h3>${esc(l.title)}</h3>
         <div class="lesson-body">${lp.slice(0, 2).map((p) => `<p>${rich(p, seen)}</p>`).join('')}</div>
-        ${lp.length > 2 ? `<a class="more" href="#lesson-${l.n}">Read the whole lesson →</a>` : ''}
+        ${lp.length > 2 ? `<a class="more" href="${lessonHref(l.n)}">Read the whole lesson →</a>` : ''}
         ${quizHTML(l)}
-        <a class="all-link" href="#lessons">All lessons →</a>
+        <a class="all-link" href="/lessons/">All lessons →</a>
       </aside>` : ''}
     </div>
     ${!ed && (D.gauges || []).length ? `<section class="dials"><span class="label">The dials · how the market feels</span><div class="dial-row">${D.gauges.map((g) => `<div class="dial"><span class="g">${esc(g.gauge)}</span><span class="r">${esc(g.reading)}</span><span class="d">${esc(firstSentence(g.detail))}</span></div>`).join('')}</div></section>` : ''}
-    ${!ed && D.editions.length > 1 ? `<p class="issue-note"><a href="#back-issues">Earlier papers →</a></p>` : ''}`;
+    ${!ed && D.editions.length > 1 ? `<p class="issue-note"><a href="/back-issues/">Earlier papers →</a></p>` : ''}`;
   }
 
   const firstSentence = (t) => { const m = String(t || '').match(/^.*?[.!?](?=\s|$)/); return m ? m[0] : t; };
@@ -212,7 +215,7 @@
       <h2>Learning to invest, one morning at a time</h2>
       <p class="intro">A new lesson most weekdays, each tied to something that actually happened in the markets that week. Five minutes, then a quiz.</p>
       <ol class="toc">${D.lessons.map((l) => isOpen(l)
-        ? `<li><a href="#lesson-${l.n}"><span class="num">${String(l.n).padStart(2, '0')}</span><span class="t">${esc(l.title)}<span class="s">${esc(l.summary || '')}</span></span><span class="tag ${l.status === 'Today' ? 'now' : ''}">${l.status === 'Today' ? 'today' : esc(l.date ? shortDate(l.date).toLowerCase() : '')}</span></a></li>`
+        ? `<li><a href="${lessonHref(l.n)}"><span class="num">${String(l.n).padStart(2, '0')}</span><span class="t">${esc(l.title)}<span class="s">${esc(l.summary || '')}</span></span><span class="tag ${l.status === 'Today' ? 'now' : ''}">${l.status === 'Today' ? 'today' : esc(l.date ? shortDate(l.date).toLowerCase() : '')}</span></a></li>`
         : `<li><span class="soon"><span class="num">${String(l.n).padStart(2, '0')}</span><span class="t">${esc(l.title)}</span><span class="tag">soon</span></span></li>`).join('')}</ol>
     </div>`;
   }
@@ -247,7 +250,7 @@
       <span class="label">Back issues · ${D.editions.length} so far</span>
       <h2>Earlier papers</h2>
       <p class="intro">Every morning's paper is kept here, with the lesson that went with it.</p>
-      <ol class="toc issues">${D.editions.map((e, i) => `<li><a href="${i === 0 ? '#' : '#edition-' + esc(e.date)}"><span class="num">${esc(shortDate(e.date))}</span><span class="t">${esc(e.headline || '')}${e.lessonTitle ? `<span class="s">Lesson: ${esc(e.lessonTitle)}</span>` : ''}</span><span class="tag ${i === 0 ? 'now' : ''}">${i === 0 ? 'today' : esc(String(parseDay(e.date).getUTCFullYear()))}</span></a></li>`).join('') || '<li><span class="soon"><span class="t">The first back issue lands after the next paper.</span></span></li>'}</ol>
+      <ol class="toc issues">${D.editions.map((e, i) => `<li><a href="${i === 0 ? '/' : '/editions/' + esc(e.date) + '/'}"><span class="num">${esc(shortDate(e.date))}</span><span class="t">${esc(e.headline || '')}${e.lessonTitle ? `<span class="s">Lesson: ${esc(e.lessonTitle)}</span>` : ''}</span><span class="tag ${i === 0 ? 'now' : ''}">${i === 0 ? 'today' : esc(String(parseDay(e.date).getUTCFullYear()))}</span></a></li>`).join('') || '<li><span class="soon"><span class="t">The first back issue lands after the next paper.</span></span></li>'}</ol>
     </div>`;
   }
 
