@@ -50,12 +50,13 @@ a{color:var(--teal)} a:hover{color:var(--teal-dk)}
 .made-by{font-family:"Courier Prime","Courier New",Courier,monospace}
 
 /* today */
-.front{display:grid;grid-template-columns:minmax(0,2.1fr) minmax(0,1fr);gap:36px}
+.front{display:grid;grid-template-columns:minmax(0,2.1fr) minmax(0,1fr);grid-template-areas:"top aside" "rest aside";grid-template-rows:auto 1fr;gap:18px 36px}
+.brief-top{grid-area:top}.brief-rest{grid-area:rest}.front > .lesson-aside{grid-area:aside;align-self:start;position:sticky;top:16px}
 .brief{display:flex;flex-direction:column;gap:14px;min-width:0}
-.brief h2{margin:0;font-size:46px;font-weight:800;line-height:1.02;letter-spacing:-.015em;text-wrap:balance}
+.brief h2{margin:0;font-size:clamp(32px,3.3vw,40px);font-weight:800;line-height:1.02;letter-spacing:-.015em;text-wrap:balance}
 .standfirst{margin:0;font-size:20px;font-style:italic;line-height:1.4;color:var(--soft);text-wrap:pretty}
 .cols{columns:2;column-gap:24px;font-size:16px;line-height:1.55}
-.cols p{margin:0 0 12px;break-inside:avoid-column}
+.cols p{margin:0 0 12px;orphans:3;widows:3}
 .cols h3{margin:0 0 4px;font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--ink);break-after:avoid}
 .week{border-top:1px solid var(--ink);padding-top:12px;display:flex;flex-direction:column;gap:8px}
 .week ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:0 18px}
@@ -85,7 +86,8 @@ a{color:var(--teal)} a:hover{color:var(--teal-dk)}
 .verdict{margin:0;font-size:14px;font-style:italic}
 .all-link{font-family:var(--sans);font-size:14px;font-weight:600}
 @media (max-width:900px){
-  .front{grid-template-columns:1fr;gap:28px}
+  .front{grid-template-columns:1fr;grid-template-areas:"top" "aside" "rest";gap:24px}
+  .front > .lesson-aside{position:static}
   .lesson-aside{border-left:0;padding-left:0;border-top:3px double var(--ink);padding-top:18px}
   .brief h2{font-size:36px}
 }

@@ -168,42 +168,27 @@
     });
   }
 
-  function jargonFor(text) {
-    const hay = ' ' + text.toLowerCase() + ' ';
-    const hits = [];
-    for (const g of D.glossary) {
-      if (BASIC.has(g.term)) continue;
-      const keys = g.term.split(/\s*[(/]\s*|\s+and\s+/i)[0].replace(/\)$/, '').trim().toLowerCase();
-      if (keys.length < 3) continue;
-      const re = new RegExp(`[^a-z]${keys.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[^a-z]`);
-      const m = re.exec(hay);
-      if (m) hits.push({ g, at: m.index });
-    }
-    return hits.sort((a, b) => a.at - b.at).slice(0, 3).map((h) => h.g);
-  }
-
   function viewToday(ed) {
     const b = (ed ? ed.brief : D.brief) || { sections: [] };
     const l = ed ? D.lessons.find((x) => x.n === ed.lesson) : currentLesson();
     const seen = new Set();
-    const all = [b.headline, b.standfirst, ...b.sections.map((s) => s.text)].join(' ');
-    const jargon = jargonFor(all);
     const start = b.date ? parseDay(b.date) : new Date();
     const end = new Date(start.getTime() + 7 * 864e5);
     const today = todayISO();
     const week = ed ? [] : (D.calendar || []).filter((c) => { const d = parseDay(c.date); return d >= start && d < end; })
       .sort((x, y) => (x.date + (x.time_uk || '')).localeCompare(y.date + (y.time_uk || '')));
-    const body = b.sections.filter((s) => s.section !== 'Today and this week' || !week.length);
+    const body = b.sections.filter((s) => (s.section !== 'Today and this week' || !week.length) && s.section !== 'Concept of the day');
 
     const lp = paras(l?.body);
     return `${ed ? `<p class="issue-note">You're reading a back issue. <a href="#">Today's paper →</a></p>` : ''}<div class="front">
-      <article class="brief">
+      <header class="brief brief-top">
         <span class="label">The morning brief</span>
         <h2>${esc(b.headline || 'The paper is late today')}</h2>
         ${b.standfirst ? `<p class="standfirst">${rich(b.standfirst, seen)}</p>` : ''}
+      </header>
+      <article class="brief brief-rest">
         <div class="cols">${body.map((s) => `<h3>${esc(s.section)}</h3>${paras(s.text).map((p) => `<p>${rich(p, seen)}</p>`).join('')}`).join('')}</div>
         ${week.length ? `<section class="week"><span class="label">The week ahead</span><ol>${week.map((c) => `<li class="${c.date < today ? 'past' : ''}"><span class="when">${shortDate(c.date)}${c.time_uk ? ' · ' + esc(c.time_uk) : ''}</span><span>${esc(c.event)}</span>${c.why ? `<span class="why">${esc(c.why)}</span>` : ''}</li>`).join('')}</ol></section>` : ''}
-        ${jargon.length ? `<div class="jargon"><span class="label">Jargon</span><p>${jargon.map((g) => `<b>${esc(g.term)}</b>: ${esc(g.meaning)}`).join(' ')}</p></div>` : ''}
       </article>
       ${l ? `<aside class="lesson-aside">
         <span class="label">${ed ? 'That day' : 'Today'}'s lesson · ${l.n} of ${D.lessons.length}</span>
