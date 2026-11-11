@@ -4,10 +4,10 @@ https://stocks.andykirwan.com is a morning paper for learning to invest: the day
 
 ## How it's built
 - Static pages (`index.html`, `style.css`, `app.js`, `quiz.js`), plus `scripts/build.mjs`, which builds `dist/` with real pages for every lesson and back issue and a sitemap. Vercel runs `node scripts/build.mjs`. Run `npm run build` before pushing.
-- `data/` is rewritten every weekday by the "Daily stock brief" scheduled task, which commits it as "Morning paper: YYYY-MM-DD". `data/editions/` holds the back issues: never edit or delete old ones.
+- `data/` is updated every weekday from the "Daily stock brief" scheduled task. Scheduled tasks can't push to GitHub, so the task writes the public files into a clone, runs `node scripts/make-drop.mjs YYYY-MM-DD` and saves the result (a "drop") in the Vercel store `ak-public` (key `stock-desk`). `api/drop.js` hands it out, and the GitHub Action `.github/workflows/publish.yml` fetches it, runs `scripts/apply-drop.mjs` and commits data/ as "Morning paper: YYYY-MM-DD" (around 06:35 to 07:00 UK, retrying through the morning). `.publish/last` records the last drop published, so each one lands once. To publish by hand, run the Action from GitHub's Actions tab. `data/editions/` holds the back issues: never edit or delete old ones.
 - The public site must never show anything personal: no paper pot, watchlist, holdings or share counts. Those live only in Andy's private dashboard.
 - Never tell readers to buy or sell anything. Keep "not financial advice" on the site.
-- On weekdays the morning task pushes around 06:15 to 07:00 UK. Avoid pushing then, and always fetch and rebase on `origin/main` first.
+- On weekdays the publish Action pushes around 06:35 to 07:00 UK. Avoid pushing then, and always fetch and rebase on `origin/main` first.
 
 ## Look
 - It has its own look (a printed morning paper). Mockups come first, using the ak-mockups skill.

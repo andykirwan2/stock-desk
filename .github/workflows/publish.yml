@@ -1,0 +1,46 @@
+# Publishes the morning paper.
+# The daily stock brief (a Claude scheduled task) can't push to GitHub, so it leaves the day's public
+# data in the Vercel store "ak-public". This fetches it from the site's /api/drop, writes it into
+# data/, checks the site still builds, and commits it as "Morning paper: YYYY-MM-DD".
+# Vercel deploys the push as before. Running it twice is harmless: a drop is only published once.
+name: publish
+
+on:
+  schedule:
+    - cron: '35,45,55 6 * * 1-5'   # UK winter time = UTC; the brief finishes around 06:30
+    - cron: '15,45 7-9 * * 1-5'
+    - cron: '30 12,18 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch the drop
+        run: curl -fsS --retry 3 --retry-delay 5 -o "$RUNNER_TEMP/drop.json" https://stocks.andykirwan.com/api/drop
+
+      - name: Write it into data/
+        run: node scripts/apply-drop.mjs "$RUNNER_TEMP/drop.json" --message-file "$RUNNER_TEMP/message.txt"
+
+      - name: Check the site still builds
+        run: node scripts/build.mjs
+
+      - name: Commit and push
+        run: |
+          if [ -z "$(git status --porcelain -- data .publish)" ]; then echo "nothing to publish"; exit 0; fi
+          git config user.name "Andy Kirwan"
+          git config user.email "andykirwan2@gmail.com"
+          git add data .publish
+          git commit -m "$(cat "$RUNNER_TEMP/message.txt" 2>/dev/null || echo 'Publish drop')"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -2,7 +2,7 @@
 
 A morning paper for learning to invest. Static site: `index.html`, `style.css`, `app.js`, and the day's data in `data/`.
 
-The weekday morning routine rewrites the files in `data/` each weekday and commits them; Vercel redeploys on push.
+The weekday morning routine leaves the day's public data in the Vercel store `ak-public`; the GitHub Action `publish` writes it into `data/` and commits it, and Vercel redeploys on push. See `scripts/apply-drop.mjs` for the drop format.
 
 | file | what it holds |
 | --- | --- |

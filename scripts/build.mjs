@@ -95,7 +95,7 @@ function page(path, html, lastmod) {
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT);
 for (const f of readdirSync(ROOT)) {
-  if (['dist', 'node_modules', 'scripts', '.git', '.vercel', 'package.json', 'package-lock.json', 'CLAUDE.md'].includes(f)) continue;
+  if (['dist', 'node_modules', 'scripts', 'api', '.git', '.github', '.publish', '.vercel', 'package.json', 'package-lock.json', 'CLAUDE.md'].includes(f)) continue;
   cpSync(join(ROOT, f), join(OUT, f), { recursive: true });
 }
 
