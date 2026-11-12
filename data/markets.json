@@ -1,110 +1,110 @@
 [
  {
+  "as_of": "2026-11-11",
+  "change_pct": 0.78,
+  "kind": "Index",
+  "level": 10835.47,
   "name": "FTSE 100",
-  "kind": "Index",
-  "region": "UK",
-  "level": 10838.0,
-  "change_pct": 1.88,
-  "as_of": "2026-11-04",
-  "note": "UK's 100 biggest listed companies"
+  "note": "UK's 100 biggest listed companies",
+  "region": "UK"
  },
  {
+  "as_of": "2026-11-11",
+  "change_pct": 0.72,
+  "kind": "Index",
+  "level": 24925.04,
   "name": "FTSE 250",
-  "kind": "Index",
-  "region": "UK",
-  "level": 24674.16,
-  "change_pct": 0.14,
-  "as_of": "2026-10-29",
-  "note": "The next 250: more tied to the UK economy"
+  "note": "The next 250: more tied to the UK economy",
+  "region": "UK"
  },
  {
+  "as_of": "2026-11-11",
+  "change_pct": 1.31,
+  "kind": "Index",
+  "level": 7619.38,
   "name": "S&P 500",
-  "kind": "Index",
-  "region": "US",
-  "level": 7688.62,
-  "change_pct": 1.58,
-  "as_of": "2026-11-04",
-  "note": "500 large US companies"
+  "note": "500 large US companies",
+  "region": "US"
  },
  {
+  "as_of": "2026-11-11",
+  "change_pct": 1.6,
+  "kind": "Index",
+  "level": 25466.19,
   "name": "Nasdaq",
-  "kind": "Index",
-  "region": "US",
-  "level": 25736.51,
-  "change_pct": 1.44,
-  "as_of": "2026-11-04",
-  "note": "Tech-heavy US index"
+  "note": "Tech-heavy US index",
+  "region": "US"
  },
  {
+  "as_of": "2026-11-11",
+  "change_pct": 0.72,
+  "kind": "Index",
+  "level": 663.05,
   "name": "Stoxx 600",
-  "kind": "Index",
-  "region": "Europe",
-  "level": 657.4,
-  "change_pct": 1.82,
-  "as_of": "2026-11-04",
-  "note": "600 companies across Europe"
+  "note": "600 companies across Europe",
+  "region": "Europe"
  },
  {
+  "as_of": "2026-11-11",
+  "change_pct": 1.2,
+  "kind": "Index",
+  "level": 26662.77,
   "name": "DAX",
-  "kind": "Index",
-  "region": "Europe",
-  "level": 26437.67,
-  "change_pct": 2.22,
-  "as_of": "2026-11-04",
-  "note": "Germany's 40 biggest companies"
+  "note": "Germany's 40 biggest companies",
+  "region": "Europe"
  },
  {
+  "as_of": "2026-11-11",
+  "change_pct": -0.52,
+  "kind": "Currency",
+  "level": 1.327,
   "name": "GBP/USD",
-  "kind": "Currency",
-  "region": "FX",
-  "level": 1.3476,
-  "change_pct": 0.48,
-  "as_of": "2026-11-04",
-  "note": "Dollars per pound"
+  "note": "Dollars per pound",
+  "region": "FX"
  },
  {
+  "as_of": "2026-11-11",
+  "change_pct": -0.65,
+  "kind": "Currency",
+  "level": 1.1088,
   "name": "EUR/USD",
-  "kind": "Currency",
-  "region": "FX",
-  "level": 1.1235,
-  "change_pct": 0.39,
-  "as_of": "2026-11-04",
-  "note": "Dollars per euro"
+  "note": "Dollars per euro",
+  "region": "FX"
  },
  {
+  "as_of": "2026-11-11",
+  "change_pct": 1.39,
+  "kind": "Commodity",
+  "level": 92.76,
   "name": "Brent crude",
-  "kind": "Commodity",
-  "region": "Global",
-  "level": 94.62,
-  "change_pct": -8.67,
-  "as_of": "2026-11-04",
-  "note": "Oil, $ per barrel"
+  "note": "Oil, $ per barrel",
+  "region": "Global"
  },
  {
-  "name": "Gold",
-  "kind": "Commodity",
-  "region": "Global",
-  "level": 4070.2,
-  "change_pct": 3.29,
-  "as_of": "2026-11-04",
-  "note": "$ per ounce"
- },
- {
-  "name": "US 10-year yield",
-  "kind": "Rate",
-  "region": "US",
-  "level": 4.89,
+  "as_of": "2026-11-11",
   "change_pct": -1.21,
-  "as_of": "2026-11-04",
-  "note": "Interest rate on US government debt, %"
+  "kind": "Commodity",
+  "level": 3983.2,
+  "name": "Gold",
+  "note": "$ per ounce",
+  "region": "Global"
  },
  {
-  "name": "VIX",
+  "as_of": "2026-11-10",
+  "change_pct": 2.05,
+  "kind": "Rate",
+  "level": 4.98,
+  "name": "US 10-year yield",
+  "note": "Interest rate on US government debt, %",
+  "region": "US"
+ },
+ {
+  "as_of": "2026-11-11",
+  "change_pct": -10.12,
   "kind": "Gauge",
-  "region": "US",
-  "level": 16.61,
-  "change_pct": -20.26,
-  "as_of": "2026-11-04",
-  "note": "'Fear gauge': expected US volatility"
+  "level": 17.49,
+  "name": "VIX",
+  "note": "'Fear gauge': expected US volatility",
+  "region": "US"
  }
 ]

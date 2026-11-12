@@ -1,128 +1,119 @@
 [
  {
-  "id": "c26",
-  "date": "2026-11-05",
-  "time_uk": "07:00",
-  "event": "National Grid half-year results",
-  "kind": "Earnings",
-  "ticker": "NG.",
-  "why": "Big UK network investment plans and the dividend; date confirmed by National Grid"
- },
- {
-  "id": "c13",
-  "date": "2026-11-05",
-  "time_uk": "12:00",
-  "event": "Bank of England rate decision",
-  "kind": "Central bank",
-  "ticker": "",
-  "why": "Widely expected to raise Bank Rate from 3.75% to 4%, the first rise since 2023; watch the vote split. Affects the pound, gilts and UK shares"
- },
- {
-  "id": "c18",
-  "date": "2026-11-05",
-  "time_uk": "~07:00",
-  "event": "Ørsted nine-month results",
-  "kind": "Earnings",
-  "ticker": "ORSTED",
-  "why": "Offshore wind projects, costs and balance sheet repair"
- },
- {
-  "id": "c19",
-  "date": "2026-11-06",
-  "time_uk": "13:30",
-  "event": "US jobs report (October)",
-  "kind": "Data",
-  "ticker": "",
-  "why": "A strong jobs market makes a December Fed rate rise more likely"
- },
- {
-  "id": "c20",
-  "date": "2026-11-10",
-  "time_uk": "13:30",
-  "event": "US CPI inflation (October)",
-  "kind": "Data",
-  "ticker": "",
-  "why": "Key input for the Fed’s December decision"
- },
- {
-  "id": "c14",
-  "date": "2026-11-11",
-  "time_uk": "",
-  "event": "Vestas Q3 results",
-  "kind": "Earnings",
-  "ticker": "VWS",
-  "why": "Wind turbine orders and margins"
- },
- {
-  "id": "c21",
   "date": "2026-11-12",
-  "time_uk": "07:00",
   "event": "UK GDP (Q3 first estimate)",
+  "id": "c21",
   "kind": "Data",
   "ticker": "",
-  "why": "Shows how fast the UK economy grew over the summer"
+  "time_uk": "07:00",
+  "why": "Shows how fast the UK economy grew over the summer; forecasters expect about 0.7% on the quarter"
  },
  {
-  "id": "c16",
+  "date": "2026-11-13",
+  "event": "US PPI producer prices (October)",
+  "id": "c32",
+  "kind": "Data",
+  "ticker": "",
+  "time_uk": "",
+  "why": "Early sign of price pressures in the pipeline, ahead of the Fed's December decision"
+ },
+ {
   "date": "2026-11-17",
-  "time_uk": "~21:20",
+  "event": "UK labour market data",
+  "id": "c33",
+  "kind": "Data",
+  "ticker": "",
+  "time_uk": "07:00",
+  "why": "Jobs and pay growth feed into the Bank of England's rate decisions"
+ },
+ {
+  "date": "2026-11-17",
   "event": "Nvidia Q3 results",
+  "id": "c16",
   "kind": "Earnings",
   "ticker": "NVDA",
-  "why": "The bellwether for AI spending. Date confirmed by Nvidia"
+  "time_uk": "~21:20",
+  "why": "The bellwether for AI spending, and investors will also watch for news on the board's review of its chief executive. Date confirmed by Nvidia"
  },
  {
-  "id": "c15",
   "date": "2026-11-18",
-  "time_uk": "07:00",
   "event": "SSE half-year results",
+  "id": "c15",
   "kind": "Earnings",
   "ticker": "SSE",
+  "time_uk": "07:00",
   "why": "Networks profit and the dividend"
  },
  {
-  "id": "c22",
   "date": "2026-11-18",
-  "time_uk": "07:00",
   "event": "UK CPI inflation (October)",
+  "id": "c22",
   "kind": "Data",
   "ticker": "",
+  "time_uk": "07:00",
   "why": "Shapes the Bank of England’s next steps on rates"
  },
  {
-  "id": "c27",
   "date": "2026-11-18",
-  "time_uk": "07:00",
   "event": "Severn Trent half-year results",
+  "id": "c27",
   "kind": "Earnings",
   "ticker": "SVT",
+  "time_uk": "07:00",
   "why": "Water bills, investment and the dividend (date from MarketScreener)"
  },
  {
-  "id": "c23",
   "date": "2026-11-25",
-  "time_uk": "13:30",
   "event": "US PCE inflation (October)",
+  "id": "c23",
   "kind": "Data",
   "ticker": "",
+  "time_uk": "13:30",
   "why": "The Fed’s preferred inflation measure"
  },
  {
-  "id": "c24",
   "date": "2026-12-04",
-  "time_uk": "13:30",
   "event": "US jobs report (November)",
+  "id": "c24",
   "kind": "Data",
   "ticker": "",
+  "time_uk": "13:30",
   "why": "Last big jobs reading before the Fed’s 9 Dec decision"
  },
  {
-  "id": "c28",
   "date": "2026-12-09",
-  "time_uk": "~19:00",
   "event": "US Federal Reserve rate decision",
+  "id": "c28",
   "kind": "Central bank",
   "ticker": "",
-  "why": "Futures price about a 77% chance of a rate rise, with new Fed forecasts"
+  "time_uk": "~19:00",
+  "why": "After October's hotter inflation, futures price about a 90% chance of a quarter-point rise; new Fed forecasts too"
+ },
+ {
+  "date": "2026-12-10",
+  "event": "US CPI inflation (November)",
+  "id": "c29",
+  "kind": "Data",
+  "ticker": "",
+  "time_uk": "13:30",
+  "why": "Comes the day after the Fed's 9 Dec decision, so it shapes expectations for its next meeting in January"
+ },
+ {
+  "date": "2026-12-17",
+  "event": "Bank of England rate decision",
+  "id": "c30",
+  "kind": "Central bank",
+  "ticker": "",
+  "time_uk": "12:00",
+  "why": "After November's rise to 4%, markets see roughly a two-in-three chance of another rise; deputy governor Lombardelli says a December rise is in play"
+ },
+ {
+  "date": "2026-12-17",
+  "event": "ECB rate decision",
+  "id": "c31",
+  "kind": "Central bank",
+  "ticker": "",
+  "time_uk": "12:45",
+  "why": "Markets price about an 80% chance of a rise; matters for European shares such as ASML, SAP and Schneider and for the euro"
  }
 ]

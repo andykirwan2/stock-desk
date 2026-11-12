@@ -1,52 +1,52 @@
 [
  {
-  "id": "g1",
+  "as_of": "2026-11-11",
+  "detail": "Within 5% of the high counts as close to the top, and the S&P 500 closed at 7,619.38 on Wednesday, about 2.6% below its record close of 7,818.93 on 6 October. Wednesday's 1.3% rise narrowed the gap, a reminder that short wobbles of a few per cent are normal.",
   "gauge": "S&P 500 vs its 52-week high",
-  "value": -1.99,
-  "unit": "%",
+  "id": "g1",
   "reading": "Close to the top",
-  "detail": "The S&P 500 closed at 7,688.62 on Wednesday, about 2.0% below its 52-week closing high of 7,844.52, after its best day in three months. It has recovered about half of last week's tech-led dip; small pullbacks like this are normal for a long-term investor.",
-  "source": "CappNotes and TheStreet closing figures, 4 Nov (high from Reuters, 29 Oct)",
-  "as_of": "2026-11-04"
- },
- {
-  "id": "g2",
-  "gauge": "Market breadth (Nasdaq)",
-  "value": null,
-  "unit": "",
-  "reading": "Broad",
-  "detail": "Wednesday's rally was wide: across the S&P 500, 400, 600 and Nasdaq-100 members, rising shares beat fallers about three to one (1,122 to 379), and the equal-weight S&P 500 rose more than the normal one. When most shares rise together, a rally rests on more than a few giants.",
-  "source": "CappNotes closing breadth, 4 Nov (Nasdaq Composite new highs/lows not available)",
-  "as_of": "2026-11-04"
- },
- {
-  "id": "g3",
-  "gauge": "US 10-year government bond yield",
-  "value": 4.89,
+  "source": "Cappnotes Closing Look and StockTitan closing figures, 11 Nov; record close from Anadolu and EdgeX, 6 Oct",
   "unit": "%",
-  "reading": "High",
-  "detail": "The US 10-year yield fell about 6 basis points to 4.89%, near its lowest in more than a year, as cheaper oil eased inflation worries. Safe bonds paying nearly 5% still set a high bar for shares to beat.",
-  "source": "CappNotes, 4 Nov (Strategitz: 4.90%)",
-  "as_of": "2026-11-04"
+  "value": -2.55
  },
  {
-  "id": "g4",
-  "gauge": "Interest rate expectations",
-  "value": null,
+  "as_of": "2026-11-11",
+  "detail": "Breadth was broad on Wednesday: on the Nasdaq about 1.8 shares rose for every one that fell, and 17 S&P 500 members hit new 52-week highs with none at new lows. When most shares join in a rise, it rests on more than a handful of big names.",
+  "gauge": "Market breadth (Nasdaq)",
+  "id": "g2",
+  "reading": "Broad",
+  "source": "Cappnotes Closing Look (Nasdaq advancers and decliners, S&P 500 new highs and lows), 11 Nov",
   "unit": "",
-  "reading": "Rises expected",
-  "detail": "The Bank of England is widely expected to raise Bank Rate from 3.75% to 4% at noon today, its first rise since 2023. Futures put about a 77% chance on a US Fed rise on 9 December, little changed after the election.",
-  "source": "CappNotes (CME FedWatch), 4 Nov; IG Bank of England preview, 2 Nov",
-  "as_of": "2026-11-04"
+  "value": null
  },
  {
-  "id": "g5",
+  "as_of": "2026-11-10",
+  "detail": "Above 4.5% counts as high, and the US 10-year yield closed at about 4.98% on Tuesday, up roughly 10 basis points after the inflation figures, having briefly topped 5%. Safe government bonds paying close to 5% set a high bar for shares to beat.",
+  "gauge": "US 10-year government bond yield",
+  "id": "g3",
+  "reading": "High",
+  "source": "Cappnotes and TheStreet, 10 Nov",
+  "unit": "%",
+  "value": 4.98
+ },
+ {
+  "as_of": "2026-11-11",
+  "detail": "Markets expect rates to go up: futures put about a 90% chance on a quarter-point Fed rise on 9 December, and roughly a two-in-three chance of another Bank of England rise on 17 December. Higher rates make borrowing dearer and tend to weigh on share prices, especially fast-growing companies.",
+  "gauge": "Interest rate expectations",
+  "id": "g4",
+  "reading": "Rises expected",
+  "source": "CME FedWatch via CNBC and StockTitan, 11 Nov; Bank of England pricing via Pound Sterling Live, 11 Nov",
+  "unit": "",
+  "value": null
+ },
+ {
+  "as_of": "2026-11-11",
+  "detail": "Above $90 a barrel counts as expensive, and Brent crude settled at $92.76 on Wednesday, up 1.4%, after Iran said its enriched nuclear material will not leave the country. Dear oil keeps pressure on inflation, which is one reason central banks are raising rates.",
   "gauge": "Oil (Brent crude)",
-  "value": 94.62,
-  "unit": "$",
+  "id": "g5",
   "reading": "Expensive",
-  "detail": "Brent crude plunged 8.7% to $94.62 a barrel on Wednesday on hopes that pressure to end the Iran war will grow after the US midterms. That is still above the $90 line, so oil keeps nudging inflation and interest rates up, but much less than at $115 last week.",
-  "source": "CappNotes settle, 4 Nov",
-  "as_of": "2026-11-04"
+  "source": "Reuters via The Star, 12 Nov",
+  "unit": "$",
+  "value": 92.76
  }
 ]

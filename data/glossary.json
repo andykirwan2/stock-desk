@@ -182,5 +182,105 @@
  {
   "term": "Risk tolerance",
   "meaning": "How much ups and downs in value you can live with, both in money and in nerves, without selling at the wrong time."
+ },
+ {
+  "meaning": "What an investment earns from its price change plus any dividends or interest, as a percentage of what you paid.",
+  "term": "Total return"
+ },
+ {
+  "meaning": "A fall of 10% or more from a recent peak, short of the 20% that marks a bear market.",
+  "term": "Correction"
+ },
+ {
+  "meaning": "A smaller dip in prices, usually 5-10% below a recent high.",
+  "term": "Pullback"
+ },
+ {
+  "meaning": "A fund (often marked 'Acc') that reinvests its dividends for you instead of paying them out, so the price already includes them.",
+  "term": "Accumulating fund"
+ },
+ {
+  "meaning": "Using dividend payments to buy more of the same investment, so future dividends are paid on a bigger holding.",
+  "term": "Reinvesting dividends"
+ },
+ {
+  "meaning": "Earning returns on your past returns as well as on the money you put in, so growth speeds up over time.",
+  "term": "Compounding"
+ },
+ {
+  "meaning": "A shortcut: divide 72 by a yearly growth rate to estimate how many years it takes to double your money.",
+  "term": "Rule of 72"
+ },
+ {
+  "meaning": "The monthly count of how many jobs US employers added, the headline figure in the US jobs report.",
+  "term": "Payrolls"
+ },
+ {
+  "meaning": "The consumer prices index: the main measure of inflation, tracking how the prices of everyday goods and services change.",
+  "term": "CPI"
+ },
+ {
+  "meaning": "The risk that a business depends so heavily on one individual that losing or distracting them would hurt it.",
+  "term": "Key-person risk"
+ },
+ {
+  "meaning": "An analyst's estimate of where a share price should be in about a year; a guess, not a promise.",
+  "term": "Price target"
+ },
+ {
+  "meaning": "What an investment app or broker charges to hold your investments, usually a yearly percentage or a flat monthly fee.",
+  "term": "Platform fee"
+ },
+ {
+  "meaning": "Inflation with food and energy prices stripped out, because they jump around; central banks watch it to see the underlying trend.",
+  "term": "Core inflation"
+ },
+ {
+  "meaning": "Tax on the profit you make when you sell an investment for more than you paid, above a yearly tax-free allowance.",
+  "term": "Capital gains tax"
+ },
+ {
+  "meaning": "The amount of dividend income you can receive each tax year outside an ISA or pension before income tax is due.",
+  "term": "Dividend allowance"
+ },
+ {
+  "meaning": "An ordinary investing account with no tax wrapper, so gains and dividends above the yearly allowances can be taxed.",
+  "term": "General investment account"
+ },
+ {
+  "meaning": "Leaning towards higher interest rates to fight inflation; the opposite is dovish.",
+  "term": "Hawkish"
+ },
+ {
+  "meaning": "An ISA for people who open it between 18 and 39, with a 25% government bonus, meant for a first home or retirement.",
+  "term": "Lifetime ISA"
+ },
+ {
+  "meaning": "A self-invested personal pension: a pension you choose the investments for, with tax relief on money paid in but locked away until your late 50s.",
+  "term": "SIPP"
+ },
+ {
+  "meaning": "The total money a company takes in from sales, before any costs are taken off.",
+  "term": "Revenue"
+ },
+ {
+  "meaning": "A company's profit divided by the number of its shares, showing how much profit each share earned.",
+  "term": "Earnings per share"
+ },
+ {
+  "meaning": "Operating profit as a percentage of sales: how many pence of each pound of sales are left after running costs.",
+  "term": "Operating margin"
+ },
+ {
+  "meaning": "Work a company has been ordered to do but hasn't delivered yet, a guide to future sales.",
+  "term": "Order backlog"
+ },
+ {
+  "meaning": "The cut-off for a dividend: buy a share on or after its ex-dividend date and the next payout goes to the previous owner.",
+  "term": "Ex-dividend"
+ },
+ {
+  "meaning": "When a broker's analyst lowers their rating on a share, for example from 'buy' to 'neutral'.",
+  "term": "Analyst downgrade"
  }
 ]
