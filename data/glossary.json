@@ -282,5 +282,33 @@
  {
   "meaning": "When a broker's analyst lowers their rating on a share, for example from 'buy' to 'neutral'.",
   "term": "Analyst downgrade"
+ },
+ {
+  "meaning": "Revenue minus the direct cost of making or buying what was sold, before running costs like wages and rent.",
+  "term": "Gross profit"
+ },
+ {
+  "meaning": "What's left of revenue after every cost, including interest and tax: the 'bottom line'.",
+  "term": "Net profit"
+ },
+ {
+  "meaning": "Profit as a percentage of revenue, showing how much of each pound of sales a company keeps.",
+  "term": "Profit margin"
+ },
+ {
+  "meaning": "A profit figure the company has tweaked to leave out one-off items, useful but chosen by the company itself.",
+  "term": "Adjusted profit"
+ },
+ {
+  "meaning": "A temporary boss who runs a company while it looks for a permanent one.",
+  "term": "Interim chief executive"
+ },
+ {
+  "meaning": "The prices businesses charge each other for goods and services, an early sign of where shop prices may head.",
+  "term": "Producer prices"
+ },
+ {
+  "meaning": "Contracts traders use to bet on the US Federal Reserve's interest rate, which show what the market expects the Fed to do.",
+  "term": "Fed funds futures"
  }
 ]

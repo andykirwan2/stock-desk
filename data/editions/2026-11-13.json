@@ -1,0 +1,139 @@
+{
+ "brief": {
+  "date": "2026-11-13",
+  "headline": "Nvidia's founder Jensen Huang resigned as chief executive on Thursday",
+  "sections": [
+   {
+    "date": "2026-11-13",
+    "order": 2,
+    "section": "The big picture",
+    "text": "Nvidia said Huang had resigned with immediate effect after a board investigation into reports about his personal conduct, and that finance chief Colette Kress will be interim (temporary) chief executive. The wider market took it fairly calmly: the S&P 500 fell 0.35% to 7,592.40 and the Nasdaq 0.39% to 25,366.09 as rivals AMD and Broadcom rose about 6%, though the VIX 'fear gauge' rose 6.9% to 18.70 and about three US shares fell for every one that rose. The bigger story was bonds: the US 10-year yield rose to 5.10% from 4.98% on Tuesday as traders bet on more Fed rate rises, and Brent crude jumped 3.3% to $95.82 a barrel after President Trump said the US doesn't need a deal with Iran. In London the FTSE 100 rose 0.25% to 10,863.09 after figures showed the UK economy grew 0.7% in July to September, its fastest in about two years, while the FTSE 250 was flat; the Stoxx 600 (up 0.1%) and DAX (up 0.4%) edged higher, the pound slipped to $1.3239 and gold fell about 2.8% as a stronger dollar and higher yields weighed."
+   },
+   {
+    "date": "2026-11-13",
+    "order": 4,
+    "section": "Today and this week",
+    "text": "US producer prices (what businesses charge, an early sign of inflation) are due today. Next week brings UK jobs data, US retail sales and Nvidia's results (about 21:20 UK) on Tuesday 17 Nov, then SSE and Severn Trent half-year results and UK inflation on Wednesday 18 Nov; National Grid and Microsoft go ex-dividend on 19 Nov. Further out, the Fed decides on 9 Dec, with futures pricing a quarter-point rise, and the Bank of England and ECB both on 17 Dec."
+   },
+   {
+    "date": "2026-11-13",
+    "order": 6,
+    "section": "Concept of the day",
+    "text": "Revenue, profit and margins: the three numbers in every results headline, with Burberry as the example. Today's lesson goes through it, with a quiz."
+   }
+  ],
+  "standfirst": "The shares fell as much as 14% before closing 4.3% lower, while the S&P 500 slipped 0.35% and the FTSE 100 rose 0.25% on strong UK growth figures."
+ },
+ "date": "2026-11-13",
+ "lesson": 12,
+ "markets": [
+  {
+   "as_of": "2026-11-12",
+   "change_pct": 0.25,
+   "kind": "Index",
+   "level": 10863.09,
+   "name": "FTSE 100",
+   "note": "UK's 100 biggest listed companies",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": -0.03,
+   "kind": "Index",
+   "level": 24916.84,
+   "name": "FTSE 250",
+   "note": "The next 250: more tied to the UK economy",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": -0.35,
+   "kind": "Index",
+   "level": 7592.4,
+   "name": "S&P 500",
+   "note": "500 large US companies",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": -0.39,
+   "kind": "Index",
+   "level": 25366.09,
+   "name": "Nasdaq",
+   "note": "Tech-heavy US index",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": 0.14,
+   "kind": "Index",
+   "level": 664.01,
+   "name": "Stoxx 600",
+   "note": "600 companies across Europe",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": 0.41,
+   "kind": "Index",
+   "level": 26771.88,
+   "name": "DAX",
+   "note": "Germany's 40 biggest companies",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": -0.23,
+   "kind": "Currency",
+   "level": 1.3239,
+   "name": "GBP/USD",
+   "note": "Dollars per pound",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": -0.25,
+   "kind": "Currency",
+   "level": 1.106,
+   "name": "EUR/USD",
+   "note": "Dollars per euro",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": 3.3,
+   "kind": "Commodity",
+   "level": 95.82,
+   "name": "Brent crude",
+   "note": "Oil, $ per barrel",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": -2.76,
+   "kind": "Commodity",
+   "level": 3877.59,
+   "name": "Gold",
+   "note": "$ per ounce",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": 2.41,
+   "kind": "Rate",
+   "level": 5.1,
+   "name": "US 10-year yield",
+   "note": "Interest rate on US government debt, %",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-12",
+   "change_pct": 6.92,
+   "kind": "Gauge",
+   "level": 18.7,
+   "name": "VIX",
+   "note": "'Fear gauge': expected US volatility",
+   "region": "US"
+  }
+ ]
+}

@@ -1,52 +1,52 @@
 [
  {
-  "as_of": "2026-11-11",
-  "detail": "Within 5% of the high counts as close to the top, and the S&P 500 closed at 7,619.38 on Wednesday, about 2.6% below its record close of 7,818.93 on 6 October. Wednesday's 1.3% rise narrowed the gap, a reminder that short wobbles of a few per cent are normal.",
+  "as_of": "2026-11-12",
+  "detail": "Within 5% of the high counts as close to the top, and the S&P 500 closed at 7,592.40 on Thursday, about 2.9% below its record close of 7,818.93 on 6 October. It slipped only 0.35% as Nvidia's chief executive resigned, a small move given the news.",
   "gauge": "S&P 500 vs its 52-week high",
   "id": "g1",
   "reading": "Close to the top",
-  "source": "Cappnotes Closing Look and StockTitan closing figures, 11 Nov; record close from Anadolu and EdgeX, 6 Oct",
+  "source": "CNBC closing figures via The Company Chronicle, 12 Nov; record close from Anadolu and EdgeX, 6 Oct",
   "unit": "%",
-  "value": -2.55
+  "value": -2.9
  },
  {
-  "as_of": "2026-11-11",
-  "detail": "Breadth was broad on Wednesday: on the Nasdaq about 1.8 shares rose for every one that fell, and 17 S&P 500 members hit new 52-week highs with none at new lows. When most shares join in a rise, it rests on more than a handful of big names.",
+  "as_of": "2026-11-12",
+  "detail": "Breadth was narrow on Thursday: on the Nasdaq, new 52-week lows outnumbered new highs by 266, and in the S&P 500 about three shares fell for every one that rose. When most shares fall while the index only dips, the selling is wider than the headline suggests.",
   "gauge": "Market breadth (Nasdaq)",
   "id": "g2",
-  "reading": "Broad",
-  "source": "Cappnotes Closing Look (Nasdaq advancers and decliners, S&P 500 new highs and lows), 11 Nov",
+  "reading": "Narrow",
+  "source": "TheStreet Pro (Nasdaq new highs minus new lows) and Dean Financials (S&P 500 advancers and decliners), 12 Nov",
   "unit": "",
   "value": null
  },
  {
-  "as_of": "2026-11-10",
-  "detail": "Above 4.5% counts as high, and the US 10-year yield closed at about 4.98% on Tuesday, up roughly 10 basis points after the inflation figures, having briefly topped 5%. Safe government bonds paying close to 5% set a high bar for shares to beat.",
+  "as_of": "2026-11-12",
+  "detail": "Above 4.5% counts as high, and the US 10-year yield closed at 5.10% on Thursday, up from 4.98% on Tuesday, as bond markets reopened after the holiday and priced in more Fed rate rises. Safe government bonds paying over 5% set a high bar for shares to beat.",
   "gauge": "US 10-year government bond yield",
   "id": "g3",
   "reading": "High",
-  "source": "Cappnotes and TheStreet, 10 Nov",
+  "source": "US Treasury daily yield curve via The Company Chronicle, 12 Nov",
   "unit": "%",
-  "value": 4.98
+  "value": 5.1
  },
  {
-  "as_of": "2026-11-11",
-  "detail": "Markets expect rates to go up: futures put about a 90% chance on a quarter-point Fed rise on 9 December, and roughly a two-in-three chance of another Bank of England rise on 17 December. Higher rates make borrowing dearer and tend to weigh on share prices, especially fast-growing companies.",
+  "as_of": "2026-11-12",
+  "detail": "Markets expect rates to go up: fed funds futures were pricing three quarter-point Fed rises by March, starting on 9 December, and economists at ING expect another Bank of England rise by February, with December also seen as possible. Higher rates make borrowing dearer and tend to weigh on share prices, especially fast-growing companies.",
   "gauge": "Interest rate expectations",
   "id": "g4",
   "reading": "Rises expected",
-  "source": "CME FedWatch via CNBC and StockTitan, 11 Nov; Bank of England pricing via Pound Sterling Live, 11 Nov",
+  "source": "CME FedWatch via CNBC, 12 Nov; ING via MT Newswires and CNBC on the Bank of England, 12 Nov",
   "unit": "",
   "value": null
  },
  {
-  "as_of": "2026-11-11",
-  "detail": "Above $90 a barrel counts as expensive, and Brent crude settled at $92.76 on Wednesday, up 1.4%, after Iran said its enriched nuclear material will not leave the country. Dear oil keeps pressure on inflation, which is one reason central banks are raising rates.",
+  "as_of": "2026-11-12",
+  "detail": "Above $90 a barrel counts as expensive, and Brent crude settled at $95.82 on Thursday, up 3.3%, after President Trump said the US doesn't need a deal with Iran. Dear oil keeps pressure on inflation, which is one reason central banks are raising rates.",
   "gauge": "Oil (Brent crude)",
   "id": "g5",
   "reading": "Expensive",
-  "source": "Reuters via The Star, 12 Nov",
+  "source": "CNBC settlement prices, 12 Nov",
   "unit": "$",
-  "value": 92.76
+  "value": 95.82
  }
 ]
