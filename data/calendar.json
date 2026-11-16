@@ -1,12 +1,12 @@
 [
  {
-  "date": "2026-11-13",
-  "event": "US PPI producer prices (October)",
-  "id": "c32",
-  "kind": "Data",
+  "date": "2026-11-16",
+  "event": "Fed Chair Kevin Warsh speaks",
+  "id": "c35",
+  "kind": "Central bank",
   "ticker": "",
   "time_uk": "",
-  "why": "Early sign of price pressures in the pipeline, ahead of the Fed's December decision"
+  "why": "Any hint on how far US rates may rise can move bonds, the dollar and shares"
  },
  {
   "date": "2026-11-17",
@@ -63,6 +63,15 @@
   "why": "Water bills, investment and the dividend (date from MarketScreener)"
  },
  {
+  "date": "2026-11-18",
+  "event": "Fed minutes (October meeting)",
+  "id": "c36",
+  "kind": "Central bank",
+  "ticker": "",
+  "time_uk": "~19:00",
+  "why": "Shows how close policymakers came to raising rates in October, ahead of the 9 Dec decision"
+ },
+ {
   "date": "2026-11-25",
   "event": "US PCE inflation (October)",
   "id": "c23",
@@ -87,7 +96,7 @@
   "kind": "Central bank",
   "ticker": "",
   "time_uk": "~19:00",
-  "why": "After October's hotter inflation, futures price a quarter-point rise, and up to three rises by March; new Fed forecasts too"
+  "why": "Futures price a quarter-point rise as close to certain, with a small chance of a half-point move; new Fed forecasts too"
  },
  {
   "date": "2026-12-10",

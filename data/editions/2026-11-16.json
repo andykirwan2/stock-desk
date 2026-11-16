@@ -1,0 +1,139 @@
+{
+ "brief": {
+  "date": "2026-11-16",
+  "headline": "US shares slipped on Friday as Nvidia fell another 2% after its boss's exit, but the S&P 500 still had its best week since August, up 2.5%",
+  "sections": [
+   {
+    "date": "2026-11-16",
+    "order": 2,
+    "section": "The big picture",
+    "text": "Friday was a calmer end to a wild week. In New York the S&P 500 fell 0.4% to 7,561.67 and the Nasdaq 0.9% to 25,136.27 as chip shares slid again (AMD fell 8.8% and Broadcom 4.8%), though the Dow edged up and more than 60% of S&P 500 companies actually rose. Bond yields kept climbing: the US 10-year yield reached 5.15% after US producer prices (what businesses charge each other, an early sign of inflation) showed price pressures still running high, and traders now see a Fed rate rise on 9 December as close to certain. In London the FTSE 100 rose 0.4% to 10,902.56, led by Centrica (up 3.8%) and the insurer Aviva, while the FTSE 250 fell 0.45%; the Stoxx 600 was flat at a record close of 664.14. The pound slipped to $1.3212, Brent crude was steady at $95.84 a barrel and gold was little changed at about $3,879 an ounce."
+   },
+   {
+    "date": "2026-11-16",
+    "order": 4,
+    "section": "Today and this week",
+    "text": "Fed Chair Kevin Warsh speaks today. Tuesday 17 Nov brings UK jobs figures (07:00), US retail sales (13:30) and Nvidia's results (about 21:20 UK), its first under interim boss Colette Kress. Wednesday 18 Nov has UK inflation (07:00), SSE and Severn Trent half-year results, and in the evening the minutes (written record) of the Fed's October meeting. Microsoft and National Grid go ex-dividend on Thursday 19 Nov, the day Anthropic's shares are expected to start trading on the Nasdaq after its IPO (this paper is written with Claude, which Anthropic makes, so weigh that accordingly). Further out, the Fed decides on 9 Dec and the Bank of England and ECB on 17 Dec."
+   },
+   {
+    "date": "2026-11-16",
+    "order": 6,
+    "section": "Concept of the day",
+    "text": "The P/E ratio: how investors judge whether a share looks cheap or dear, with TSMC as the example. Today's lesson goes through it, with a quiz."
+   }
+  ],
+  "standfirst": "The FTSE 100 rose 0.4% to 10,902.56, its highest close in three months, helped by energy and insurance shares."
+ },
+ "date": "2026-11-16",
+ "lesson": 13,
+ "markets": [
+  {
+   "as_of": "2026-11-13",
+   "change_pct": 0.36,
+   "kind": "Index",
+   "level": 10902.56,
+   "name": "FTSE 100",
+   "note": "UK's 100 biggest listed companies",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": -0.45,
+   "kind": "Index",
+   "level": 24805.41,
+   "name": "FTSE 250",
+   "note": "The next 250: more tied to the UK economy",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": -0.4,
+   "kind": "Index",
+   "level": 7561.67,
+   "name": "S&P 500",
+   "note": "500 large US companies",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": -0.91,
+   "kind": "Index",
+   "level": 25136.27,
+   "name": "Nasdaq",
+   "note": "Tech-heavy US index",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": 0.02,
+   "kind": "Index",
+   "level": 664.14,
+   "name": "Stoxx 600",
+   "note": "600 companies across Europe",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": -0.08,
+   "kind": "Index",
+   "level": 26749.95,
+   "name": "DAX",
+   "note": "Germany's 40 biggest companies",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": -0.2,
+   "kind": "Currency",
+   "level": 1.3212,
+   "name": "GBP/USD",
+   "note": "Dollars per pound",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": -0.3,
+   "kind": "Currency",
+   "level": 1.1027,
+   "name": "EUR/USD",
+   "note": "Dollars per euro",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": 0.02,
+   "kind": "Commodity",
+   "level": 95.84,
+   "name": "Brent crude",
+   "note": "Oil, $ per barrel",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": 0.03,
+   "kind": "Commodity",
+   "level": 3878.9,
+   "name": "Gold",
+   "note": "$ per ounce",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": 0.98,
+   "kind": "Rate",
+   "level": 5.15,
+   "name": "US 10-year yield",
+   "note": "Interest rate on US government debt, %",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-13",
+   "change_pct": 3.21,
+   "kind": "Gauge",
+   "level": 19.3,
+   "name": "VIX",
+   "note": "'Fear gauge': expected US volatility",
+   "region": "US"
+  }
+ ]
+}

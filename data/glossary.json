@@ -310,5 +310,25 @@
  {
   "meaning": "Contracts traders use to bet on the US Federal Reserve's interest rate, which show what the market expects the Fed to do.",
   "term": "Fed funds futures"
+ },
+ {
+  "meaning": "Price-to-earnings ratio: the share price divided by the company's yearly earnings per share, showing how much investors pay for each £1 of profit.",
+  "term": "P/E ratio"
+ },
+ {
+  "meaning": "A P/E ratio worked out with the profit analysts expect over the next year, rather than last year's actual profit.",
+  "term": "Forward P/E"
+ },
+ {
+  "meaning": "A P/E ratio worked out with the company's actual profit over the last 12 months.",
+  "term": "Trailing P/E"
+ },
+ {
+  "meaning": "Earnings per share divided by the share price: the P/E ratio turned upside down and shown as a percentage.",
+  "term": "Earnings yield"
+ },
+ {
+  "meaning": "The written record of a central bank meeting, published a few weeks later, showing what policymakers discussed.",
+  "term": "Minutes"
  }
 ]
