@@ -1,25 +1,25 @@
 {
- "date": "2026-11-16",
- "headline": "US shares slipped on Friday as Nvidia fell another 2% after its boss's exit, but the S&P 500 still had its best week since August, up 2.5%",
+ "date": "2026-11-17",
+ "headline": "The S&P 500 fell 1.9% on Monday to 7,416.59, slipping more than 5% below its record as chip shares slid again ahead of Nvidia's results tonight",
  "sections": [
   {
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "order": 2,
    "section": "The big picture",
-   "text": "Friday was a calmer end to a wild week. In New York the S&P 500 fell 0.4% to 7,561.67 and the Nasdaq 0.9% to 25,136.27 as chip shares slid again (AMD fell 8.8% and Broadcom 4.8%), though the Dow edged up and more than 60% of S&P 500 companies actually rose. Bond yields kept climbing: the US 10-year yield reached 5.15% after US producer prices (what businesses charge each other, an early sign of inflation) showed price pressures still running high, and traders now see a Fed rate rise on 9 December as close to certain. In London the FTSE 100 rose 0.4% to 10,902.56, led by Centrica (up 3.8%) and the insurer Aviva, while the FTSE 250 fell 0.45%; the Stoxx 600 was flat at a record close of 664.14. The pound slipped to $1.3212, Brent crude was steady at $95.84 a barrel and gold was little changed at about $3,879 an ounce."
+   "text": "A sell-off in technology shares ran into a third day in New York. The S&P 500 fell 1.9% and the Nasdaq 2.5% to 24,509.76, with chipmakers down about 5% after the US government moved to stop Chinese firms renting Nvidia's chips in data centres abroad, and weekend reports tied Nvidia more closely to a chip-smuggling case. Investors are also bracing for two big AI tests this week: Nvidia's results tonight and Anthropic's stock market debut on Thursday. Europe was calmer: the Stoxx 600 slipped 0.3% from Friday's record and the FTSE 100 dipped 0.2% as miners fell on weak Chinese data, while the FTSE 250 lost 0.4%. Oil fell 3.6% as more tankers passed through the Strait of Hormuz, gold eased to about $3,856 an ounce, the pound slipped to $1.318 and the VIX (the 'fear gauge') jumped about 19% to 22.91. The US 10-year yield edged down to about 5.12% as investors bought safe government bonds."
   },
   {
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "order": 4,
    "section": "Today and this week",
-   "text": "Fed Chair Kevin Warsh speaks today. Tuesday 17 Nov brings UK jobs figures (07:00), US retail sales (13:30) and Nvidia's results (about 21:20 UK), its first under interim boss Colette Kress. Wednesday 18 Nov has UK inflation (07:00), SSE and Severn Trent half-year results, and in the evening the minutes (written record) of the Fed's October meeting. Microsoft and National Grid go ex-dividend on Thursday 19 Nov, the day Anthropic's shares are expected to start trading on the Nasdaq after its IPO (this paper is written with Claude, which Anthropic makes, so weigh that accordingly). Further out, the Fed decides on 9 Dec and the Bank of England and ECB on 17 Dec."
+   "text": "UK jobs figures come out at 07:00 today, then US retail sales at 13:30 and Nvidia's results at about 21:20 UK. Analysts expect Nvidia's revenue to be about $108.7bn, up about 91% on a year ago, and investors will listen closely to interim boss Colette Kress on demand and orders. Wednesday brings UK inflation (07:00), where Goldman Sachs expects a rise to 3.7%, half-year results from SSE and Severn Trent, and the minutes of the Fed's October meeting in the evening. Anthropic is due to price its shares on Wednesday evening and start trading on the Nasdaq on Thursday under the ticker ANT, at an expected $70 to $78 a share (this paper is written with Claude, which Anthropic makes, so weigh that accordingly). Microsoft and National Grid go ex-dividend on Thursday. Further out, the Fed decides on 9 Dec, with a quarter-point rise close to fully priced in, and the Bank of England and ECB on 17 Dec."
   },
   {
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "order": 6,
    "section": "Concept of the day",
-   "text": "The P/E ratio: how investors judge whether a share looks cheap or dear, with TSMC as the example. Today's lesson goes through it, with a quiz."
+   "text": "Valuation beyond the P/E: dividend yield, price-to-book and EV/EBITDA, with National Grid and SSE as examples. Today's lesson goes through it, with a quiz."
   }
  ],
- "standfirst": "The FTSE 100 rose 0.4% to 10,902.56, its highest close in three months, helped by energy and insurance shares."
+ "standfirst": "The FTSE 100 held up better, dipping 0.2% to 10,881.55, while Brent crude fell 3.6% to $92.44 a barrel."
 }

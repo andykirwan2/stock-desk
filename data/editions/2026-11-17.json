@@ -1,0 +1,139 @@
+{
+ "brief": {
+  "date": "2026-11-17",
+  "headline": "The S&P 500 fell 1.9% on Monday to 7,416.59, slipping more than 5% below its record as chip shares slid again ahead of Nvidia's results tonight",
+  "sections": [
+   {
+    "date": "2026-11-17",
+    "order": 2,
+    "section": "The big picture",
+    "text": "A sell-off in technology shares ran into a third day in New York. The S&P 500 fell 1.9% and the Nasdaq 2.5% to 24,509.76, with chipmakers down about 5% after the US government moved to stop Chinese firms renting Nvidia's chips in data centres abroad, and weekend reports tied Nvidia more closely to a chip-smuggling case. Investors are also bracing for two big AI tests this week: Nvidia's results tonight and Anthropic's stock market debut on Thursday. Europe was calmer: the Stoxx 600 slipped 0.3% from Friday's record and the FTSE 100 dipped 0.2% as miners fell on weak Chinese data, while the FTSE 250 lost 0.4%. Oil fell 3.6% as more tankers passed through the Strait of Hormuz, gold eased to about $3,856 an ounce, the pound slipped to $1.318 and the VIX (the 'fear gauge') jumped about 19% to 22.91. The US 10-year yield edged down to about 5.12% as investors bought safe government bonds."
+   },
+   {
+    "date": "2026-11-17",
+    "order": 4,
+    "section": "Today and this week",
+    "text": "UK jobs figures come out at 07:00 today, then US retail sales at 13:30 and Nvidia's results at about 21:20 UK. Analysts expect Nvidia's revenue to be about $108.7bn, up about 91% on a year ago, and investors will listen closely to interim boss Colette Kress on demand and orders. Wednesday brings UK inflation (07:00), where Goldman Sachs expects a rise to 3.7%, half-year results from SSE and Severn Trent, and the minutes of the Fed's October meeting in the evening. Anthropic is due to price its shares on Wednesday evening and start trading on the Nasdaq on Thursday under the ticker ANT, at an expected $70 to $78 a share (this paper is written with Claude, which Anthropic makes, so weigh that accordingly). Microsoft and National Grid go ex-dividend on Thursday. Further out, the Fed decides on 9 Dec, with a quarter-point rise close to fully priced in, and the Bank of England and ECB on 17 Dec."
+   },
+   {
+    "date": "2026-11-17",
+    "order": 6,
+    "section": "Concept of the day",
+    "text": "Valuation beyond the P/E: dividend yield, price-to-book and EV/EBITDA, with National Grid and SSE as examples. Today's lesson goes through it, with a quiz."
+   }
+  ],
+  "standfirst": "The FTSE 100 held up better, dipping 0.2% to 10,881.55, while Brent crude fell 3.6% to $92.44 a barrel."
+ },
+ "date": "2026-11-17",
+ "lesson": 14,
+ "markets": [
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -0.19,
+   "kind": "Index",
+   "level": 10881.55,
+   "name": "FTSE 100",
+   "note": "UK's 100 biggest listed companies",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -0.42,
+   "kind": "Index",
+   "level": 24700.06,
+   "name": "FTSE 250",
+   "note": "The next 250: more tied to the UK economy",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -1.92,
+   "kind": "Index",
+   "level": 7416.59,
+   "name": "S&P 500",
+   "note": "500 large US companies",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -2.49,
+   "kind": "Index",
+   "level": 24509.76,
+   "name": "Nasdaq",
+   "note": "Tech-heavy US index",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -0.28,
+   "kind": "Index",
+   "level": 662.31,
+   "name": "Stoxx 600",
+   "note": "600 companies across Europe",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -0.57,
+   "kind": "Index",
+   "level": 26598.64,
+   "name": "DAX",
+   "note": "Germany's 40 biggest companies",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -0.24,
+   "kind": "Currency",
+   "level": 1.318,
+   "name": "GBP/USD",
+   "note": "Dollars per pound",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -0.25,
+   "kind": "Currency",
+   "level": 1.0999,
+   "name": "EUR/USD",
+   "note": "Dollars per euro",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -3.55,
+   "kind": "Commodity",
+   "level": 92.44,
+   "name": "Brent crude",
+   "note": "Oil, $ per barrel",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -0.59,
+   "kind": "Commodity",
+   "level": 3855.85,
+   "name": "Gold",
+   "note": "$ per ounce",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": -0.58,
+   "kind": "Rate",
+   "level": 5.12,
+   "name": "US 10-year yield",
+   "note": "Interest rate on US government debt, %",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-16",
+   "change_pct": 18.7,
+   "kind": "Gauge",
+   "level": 22.91,
+   "name": "VIX",
+   "note": "'Fear gauge': expected US volatility",
+   "region": "US"
+  }
+ ]
+}

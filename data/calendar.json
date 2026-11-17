@@ -1,14 +1,5 @@
 [
  {
-  "date": "2026-11-16",
-  "event": "Fed Chair Kevin Warsh speaks",
-  "id": "c35",
-  "kind": "Central bank",
-  "ticker": "",
-  "time_uk": "",
-  "why": "Any hint on how far US rates may rise can move bonds, the dollar and shares"
- },
- {
   "date": "2026-11-17",
   "event": "UK labour market data",
   "id": "c33",
@@ -33,7 +24,7 @@
   "kind": "Earnings",
   "ticker": "NVDA",
   "time_uk": "~21:20",
-  "why": "The bellwether for AI spending, and the first results since founder Jensen Huang resigned as chief executive, with finance chief Colette Kress as interim boss. Date confirmed by Nvidia"
+  "why": "The bellwether for AI spending and the first results since Jensen Huang quit as boss, with analysts expecting revenue of about $108.7bn. Date confirmed by Nvidia"
  },
  {
   "date": "2026-11-18",
@@ -51,7 +42,7 @@
   "kind": "Data",
   "ticker": "",
   "time_uk": "07:00",
-  "why": "Shapes the Bank of England’s next steps on rates"
+  "why": "Shapes the Bank of England's next steps on rates; Goldman Sachs expects a rise to 3.7%"
  },
  {
   "date": "2026-11-18",

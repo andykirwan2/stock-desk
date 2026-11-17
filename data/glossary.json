@@ -330,5 +330,33 @@
  {
   "meaning": "The written record of a central bank meeting, published a few weeks later, showing what policymakers discussed.",
   "term": "Minutes"
+ },
+ {
+  "meaning": "The yearly dividend as a percentage of the share price, so a 40p dividend on a 1,000p share is a 4% yield.",
+  "term": "Dividend yield"
+ },
+ {
+  "meaning": "The share price divided by the company's book value per share (its assets minus its debts, as shown in its accounts).",
+  "term": "Price-to-book ratio"
+ },
+ {
+  "meaning": "The market value of a company's shares plus its net debt: roughly what it would cost to buy the whole business.",
+  "term": "Enterprise value"
+ },
+ {
+  "meaning": "Earnings before interest, tax, depreciation and amortisation: profit before borrowing costs, tax and accounting charges for wear and tear.",
+  "term": "EBITDA"
+ },
+ {
+  "meaning": "Enterprise value divided by EBITDA, a valuation ratio that allows for debt, so companies that borrow differently can be compared.",
+  "term": "EV/EBITDA"
+ },
+ {
+  "meaning": "Government rules that limit which products, such as advanced chips, can be sold to certain countries.",
+  "term": "Export controls"
+ },
+ {
+  "meaning": "Official figures for how much people spend in shops and online each month, a guide to how strong consumer spending is.",
+  "term": "Retail sales"
  }
 ]
