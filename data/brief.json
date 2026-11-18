@@ -1,25 +1,25 @@
 {
- "date": "2026-11-17",
- "headline": "The S&P 500 fell 1.9% on Monday to 7,416.59, slipping more than 5% below its record as chip shares slid again ahead of Nvidia's results tonight",
+ "date": "2026-11-18",
+ "headline": "Nvidia beat forecasts after Tuesday's close, with sales up 103% to $115.8bn, and its shares rose about 4.8% in late trading",
  "sections": [
   {
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "order": 2,
    "section": "The big picture",
-   "text": "A sell-off in technology shares ran into a third day in New York. The S&P 500 fell 1.9% and the Nasdaq 2.5% to 24,509.76, with chipmakers down about 5% after the US government moved to stop Chinese firms renting Nvidia's chips in data centres abroad, and weekend reports tied Nvidia more closely to a chip-smuggling case. Investors are also bracing for two big AI tests this week: Nvidia's results tonight and Anthropic's stock market debut on Thursday. Europe was calmer: the Stoxx 600 slipped 0.3% from Friday's record and the FTSE 100 dipped 0.2% as miners fell on weak Chinese data, while the FTSE 250 lost 0.4%. Oil fell 3.6% as more tankers passed through the Strait of Hormuz, gold eased to about $3,856 an ounce, the pound slipped to $1.318 and the VIX (the 'fear gauge') jumped about 19% to 22.91. The US 10-year yield edged down to about 5.12% as investors bought safe government bonds."
+   "text": "Investors cut risk everywhere before Nvidia's results. In London the FTSE 100 fell 1.8% and the FTSE 250 1.2% to 24,392.79, while the Stoxx 600 lost 1.75% and Germany's DAX 2.1%, with European tech shares down about 4%. In New York the S&P 500 fell for a fourth day to its lowest close since late July and the Nasdaq slipped 0.7%, as software shares such as Salesforce were sold on worries about a run of tech outages and the VIX (the 'fear gauge') rose about 11% to 25.46. After the bell Nvidia beat forecasts, pointed to about $130bn of sales next quarter, announced a $150bn share buyback (buying back its own shares) and said its board will not bring back Jensen Huang as boss; its shares rose about 4.8% in after-hours trading (deals after the official close). Brent crude edged up 0.8% to $93.14, the US 10-year yield dipped to 5.10% and the pound rose to about $1.322 after mixed UK jobs figures."
   },
   {
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "order": 4,
    "section": "Today and this week",
-   "text": "UK jobs figures come out at 07:00 today, then US retail sales at 13:30 and Nvidia's results at about 21:20 UK. Analysts expect Nvidia's revenue to be about $108.7bn, up about 91% on a year ago, and investors will listen closely to interim boss Colette Kress on demand and orders. Wednesday brings UK inflation (07:00), where Goldman Sachs expects a rise to 3.7%, half-year results from SSE and Severn Trent, and the minutes of the Fed's October meeting in the evening. Anthropic is due to price its shares on Wednesday evening and start trading on the Nasdaq on Thursday under the ticker ANT, at an expected $70 to $78 a share (this paper is written with Claude, which Anthropic makes, so weigh that accordingly). Microsoft and National Grid go ex-dividend on Thursday. Further out, the Fed decides on 9 Dec, with a quarter-point rise close to fully priced in, and the Bank of England and ECB on 17 Dec."
+   "text": "UK inflation for October comes out at 07:00, with Goldman Sachs expecting a rise to 3.7%, and SSE and Severn Trent publish half-year results at the same time. The minutes of the Fed's October meeting follow at about 19:00. Anthropic is due to price its shares this evening and start trading on the Nasdaq on Thursday under the ticker ANT, with a range of $70 to $78 a share (Anthropic makes me, so weigh my take on it accordingly). Thursday also brings a summit between Presidents Trump and Xi in Shenzhen, and Microsoft and National Grid go ex-dividend. Markets now treat a quarter-point Fed rise on 9 December as certain, and traders see about a 90% chance the Bank of England raises rates on 17 December, the same day as the ECB decides."
   },
   {
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "order": 6,
    "section": "Concept of the day",
-   "text": "Valuation beyond the P/E: dividend yield, price-to-book and EV/EBITDA, with National Grid and SSE as examples. Today's lesson goes through it, with a quiz."
+   "text": "Interest rates: why a central bank meeting can move every market, from the Fed's 9 December decision to the 5.10% US 10-year yield. Today's lesson goes through it, with a quiz."
   }
  ],
- "standfirst": "The FTSE 100 held up better, dipping 0.2% to 10,881.55, while Brent crude fell 3.6% to $92.44 a barrel."
+ "standfirst": "Before the results, nerves pushed the FTSE 100 down 1.8% to 10,689.87, its worst day in eight months, and the S&P 500 down 1.0% to 7,340.53."
 }

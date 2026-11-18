@@ -1,32 +1,5 @@
 [
  {
-  "date": "2026-11-17",
-  "event": "UK labour market data",
-  "id": "c33",
-  "kind": "Data",
-  "ticker": "",
-  "time_uk": "07:00",
-  "why": "Jobs and pay growth feed into the Bank of England's rate decisions"
- },
- {
-  "date": "2026-11-17",
-  "event": "US retail sales (October)",
-  "id": "c34",
-  "kind": "Data",
-  "ticker": "",
-  "time_uk": "13:30",
-  "why": "Shows whether US shoppers are still spending as interest rates rise"
- },
- {
-  "date": "2026-11-17",
-  "event": "Nvidia Q3 results",
-  "id": "c16",
-  "kind": "Earnings",
-  "ticker": "NVDA",
-  "time_uk": "~21:20",
-  "why": "The bellwether for AI spending and the first results since Jensen Huang quit as boss, with analysts expecting revenue of about $108.7bn. Date confirmed by Nvidia"
- },
- {
   "date": "2026-11-18",
   "event": "SSE half-year results",
   "id": "c15",
@@ -61,6 +34,15 @@
   "ticker": "",
   "time_uk": "~19:00",
   "why": "Shows how close policymakers came to raising rates in October, ahead of the 9 Dec decision"
+ },
+ {
+  "date": "2026-11-19",
+  "event": "Trump–Xi summit in Shenzhen",
+  "id": "c37",
+  "kind": "Policy",
+  "ticker": "",
+  "time_uk": "",
+  "why": "Comes as the US tightens limits on China's access to advanced AI chips, which matters for Nvidia, TSMC and ASML"
  },
  {
   "date": "2026-11-25",
