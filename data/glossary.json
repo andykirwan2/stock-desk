@@ -374,5 +374,25 @@
  {
   "meaning": "An investment, such as government bonds or gold, that people buy when markets get nervous.",
   "term": "Safe haven"
+ },
+ {
+  "meaning": "How much of one currency you get for another, for example how many US dollars one pound buys.",
+  "term": "Exchange rate"
+ },
+ {
+  "meaning": "The chance that a change in exchange rates makes an overseas investment worth more or less in your own currency.",
+  "term": "Currency risk"
+ },
+ {
+  "meaning": "Describes a fund that uses contracts to cancel out most of the effect of currency swings, at a small cost.",
+  "term": "Currency-hedged"
+ },
+ {
+  "meaning": "How fast prices for services such as haircuts, rents and meals out are rising; central banks watch it as a sign of home-grown inflation.",
+  "term": "Services inflation"
+ },
+ {
+  "meaning": "The lowest closing price a share or fund has reached over the past year.",
+  "term": "52-week low"
  }
 ]

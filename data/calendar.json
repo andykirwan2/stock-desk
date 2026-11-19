@@ -1,41 +1,5 @@
 [
  {
-  "date": "2026-11-18",
-  "event": "SSE half-year results",
-  "id": "c15",
-  "kind": "Earnings",
-  "ticker": "SSE",
-  "time_uk": "07:00",
-  "why": "Networks profit and the dividend"
- },
- {
-  "date": "2026-11-18",
-  "event": "UK CPI inflation (October)",
-  "id": "c22",
-  "kind": "Data",
-  "ticker": "",
-  "time_uk": "07:00",
-  "why": "Shapes the Bank of England's next steps on rates; Goldman Sachs expects a rise to 3.7%"
- },
- {
-  "date": "2026-11-18",
-  "event": "Severn Trent half-year results",
-  "id": "c27",
-  "kind": "Earnings",
-  "ticker": "SVT",
-  "time_uk": "07:00",
-  "why": "Water bills, investment and the dividend (date from MarketScreener)"
- },
- {
-  "date": "2026-11-18",
-  "event": "Fed minutes (October meeting)",
-  "id": "c36",
-  "kind": "Central bank",
-  "ticker": "",
-  "time_uk": "~19:00",
-  "why": "Shows how close policymakers came to raising rates in October, ahead of the 9 Dec decision"
- },
- {
   "date": "2026-11-19",
   "event": "Trump–Xi summit in Shenzhen",
   "id": "c37",
@@ -69,7 +33,7 @@
   "kind": "Central bank",
   "ticker": "",
   "time_uk": "~19:00",
-  "why": "Futures price a quarter-point rise as close to certain, with a small chance of a half-point move; new Fed forecasts too"
+  "why": "Futures fully price a quarter-point rise, and Fed Governor Waller has argued for considering a half-point move; new Fed forecasts too"
  },
  {
   "date": "2026-12-10",
@@ -87,7 +51,7 @@
   "kind": "Central bank",
   "ticker": "",
   "time_uk": "12:00",
-  "why": "After November's rise to 4%, strong UK growth figures keep a December rise on the table; ING expects another rise by February"
+  "why": "After November's rise to 4%, traders see about an 80% chance of another rise, trimmed from 90% after October inflation came in slightly below the Bank's forecast"
  },
  {
   "date": "2026-12-17",
@@ -96,6 +60,6 @@
   "kind": "Central bank",
   "ticker": "",
   "time_uk": "12:45",
-  "why": "Markets price about an 80% chance of a rise; matters for European shares such as ASML, SAP and Schneider and for the euro"
+  "why": "Markets price about a 95% chance of a rise; matters for European shares such as ASML, SAP and Schneider and for the euro"
  }
 ]
