@@ -1,12 +1,21 @@
 [
  {
-  "date": "2026-11-19",
-  "event": "Trump–Xi summit in Shenzhen",
-  "id": "c37",
+  "date": "2026-11-20",
+  "event": "UK-EU summit",
+  "id": "c39",
   "kind": "Policy",
   "ticker": "",
   "time_uk": "",
-  "why": "Comes as the US tightens limits on China's access to advanced AI chips, which matters for Nvidia, TSMC and ASML"
+  "why": "Talks on closer trade ties with the EU, which could move the pound"
+ },
+ {
+  "date": "2026-11-20",
+  "event": "UK retail sales (October)",
+  "id": "c38",
+  "kind": "Data",
+  "ticker": "",
+  "time_uk": "07:00",
+  "why": "A read on UK shoppers ahead of the Bank of England's 17 Dec decision"
  },
  {
   "date": "2026-11-25",

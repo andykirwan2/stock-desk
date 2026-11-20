@@ -394,5 +394,25 @@
  {
   "meaning": "The lowest closing price a share or fund has reached over the past year.",
   "term": "52-week low"
+ },
+ {
+  "meaning": "Businesses selling things people need whatever the economy does, such as water, power, medicines and food, whose profits and share prices tend to be steadier.",
+  "term": "Defensive sector"
+ },
+ {
+  "meaning": "A share in a company expected to grow sales and profits much faster than the economy, usually valued on profits far in the future, so its price swings more.",
+  "term": "Growth stock"
+ },
+ {
+  "meaning": "Businesses whose profits rise and fall with the economy, such as carmakers, miners and banks.",
+  "term": "Cyclical sector"
+ },
+ {
+  "meaning": "Everyday goods like food, drink, toiletries and cleaning products that people keep buying in hard times.",
+  "term": "Consumer staples"
+ },
+ {
+  "meaning": "An investor who borrows shares and sells them, hoping to buy them back cheaper later, so they profit if the price falls.",
+  "term": "Short seller"
  }
 ]

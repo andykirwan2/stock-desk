@@ -1,25 +1,25 @@
 {
- "date": "2026-11-19",
- "headline": "Miners dragged the FTSE 100 down 1.3% to 10,551.17 on Wednesday as UK inflation rose to 3.6%, its highest in a year",
+ "date": "2026-11-20",
+ "headline": "Wall Street's sell-off deepened on Thursday, with the S&P 500 down 2.0% for a sixth straight fall even as Anthropic's shares ended their first day 17% above their IPO price",
  "sections": [
   {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "order": 2,
    "section": "The big picture",
-   "text": "Metals sold off as a firmer dollar and talk of more US rate rises hit commodities: copper fell more than 5% and gold about 3% to its lowest in over a year, so mining shares led the FTSE 100 lower for a third day, while the FTSE 250 slipped just 0.1% to 24,364.17. UK inflation rose to 3.6% in October from 3.5%, pushed up by record diesel prices, but came in just under the Bank of England's 3.7% forecast, so traders trimmed the chance of a December rate rise to about 80% from 90%. Europe's Stoxx 600 lost 1.0% and Germany's DAX 1.2%. In New York the S&P 500 fell 0.2% to 7,323.63, its fifth fall in a row, while the Nasdaq rose 0.4% to 24,429.88; the minutes (the written record) of the Fed's October meeting showed nearly all policymakers expect to raise rates in the months ahead. Brent crude fell 1.3% to $91.95 after a big rise in US oil stocks, the US 10-year yield eased to about 5.06% and the pound slipped 0.45% to $1.3148, close to its lowest level this year."
+   "text": "US shares opened higher on excitement over Anthropic's Nasdaq debut, the biggest IPO (first sale of shares to the public) on record, but sold off all afternoon. Anthropic opened at $111.50 against an $83 offer price and closed at $97.17 (Anthropic makes me, so weigh my take on it accordingly). The S&P 500 fell 2.0% to 7,175.83, the Nasdaq 2.25% to 23,879.20 and the Dow 2.2%, closing below 50,000 for the first time since June, with soft US factory and jobs data doing nothing to shift bets on a Fed rate rise in December. In London the FTSE 100 fell 0.9% and the FTSE 250 0.7% to 24,192.21, led lower by defensive shares such as Unilever, National Grid and AstraZeneca as UK government bond yields rose; Europe's Stoxx 600 lost 0.9% and the DAX 1.1%. Brent crude was flat at $91.98 as reports of tankers hit by mines in the Strait of Hormuz offset signs of plentiful supply, gold fell 2.1% to $3,663.50, the US 10-year yield eased to about 5.05%, the VIX (the 'fear gauge') jumped to about 28 and the pound slipped 0.3% to $1.3110. The Trump, Xi and Putin summit in Shenzhen ended with a symbolic peace declaration but no big deal."
   },
   {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "order": 4,
    "section": "Today and this week",
-   "text": "Anthropic's shares start trading on the Nasdaq today under the ticker ANT, after it priced its share sale at $83, above the planned $70 to $78 range, raising about $81.3bn in what AP calls the biggest Wall Street debut of all time (Anthropic makes me, so weigh my take on it accordingly). Presidents Trump and Xi also meet in Shenzhen today, which matters for chip makers such as Nvidia, TSMC and ASML, and Microsoft and National Grid go ex-dividend (new buyers no longer get the next payout). Next Wednesday, 25 November, brings US PCE inflation, the Fed's preferred measure. Markets fully price a quarter-point Fed rise on 9 December, with Fed Governor Waller arguing for a half-point, and traders see about an 80% chance of a Bank of England rise and about 95% for the ECB, both on 17 December."
+   "text": "Today brings UK retail sales for October at 7am and a UK-EU summit, plus speeches from Fed governors Waller and Cook. Next Wednesday, 25 November, brings US PCE inflation, the Fed's preferred measure, and US markets are shut on Thursday 26 November for Thanksgiving. Severn Trent goes ex-dividend on 26 November and NextEra on 27 November. CME FedWatch puts the chance of a quarter-point Fed rise on 9 December at about 96%, traders see about an 80% chance of a Bank of England rise on 17 December, and the ECB, also on 17 December, is expected to raise rates too."
   },
   {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "order": 6,
    "section": "Concept of the day",
-   "text": "Currencies and your returns: why a falling pound made Microsoft shares worth more in pounds on Wednesday, even though they barely moved in dollars. Today's lesson goes through it, with a quiz."
+   "text": "Defensive and growth sectors: why a water company and a chip designer react so differently to the same news, and why Thursday was an unusual day for UK defensives. Today's lesson goes through it, with a quiz."
   }
  ],
- "standfirst": "Nvidia gave up its after-hours jump and closed 2.9% lower despite beating forecasts."
+ "standfirst": "The FTSE 100 slipped 0.9% to 10,452.68, its lowest close in six weeks."
 }
