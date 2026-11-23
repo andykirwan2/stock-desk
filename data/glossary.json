@@ -414,5 +414,13 @@
  {
   "meaning": "An investor who borrows shares and sells them, hoping to buy them back cheaper later, so they profit if the price falls.",
   "term": "Short seller"
+ },
+ {
+  "meaning": "A rule that removes whole groups of companies, such as oil producers or tobacco makers, from an ESG fund.",
+  "term": "ESG screen"
+ },
+ {
+  "meaning": "An early estimate of a monthly survey of purchasing managers that shows whether business activity is growing (above 50) or shrinking (below 50).",
+  "term": "Flash PMI"
  }
 ]

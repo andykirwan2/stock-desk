@@ -1,21 +1,12 @@
 [
  {
-  "date": "2026-11-20",
-  "event": "UK-EU summit",
-  "id": "c39",
-  "kind": "Policy",
-  "ticker": "",
-  "time_uk": "",
-  "why": "Talks on closer trade ties with the EU, which could move the pound"
- },
- {
-  "date": "2026-11-20",
-  "event": "UK retail sales (October)",
-  "id": "c38",
+  "date": "2026-11-23",
+  "event": "UK flash PMI (November)",
+  "id": "c40",
   "kind": "Data",
   "ticker": "",
-  "time_uk": "07:00",
-  "why": "A read on UK shoppers ahead of the Bank of England's 17 Dec decision"
+  "time_uk": "09:30",
+  "why": "An early read on UK business activity ahead of the Bank of England's 17 Dec decision"
  },
  {
   "date": "2026-11-25",
@@ -25,6 +16,15 @@
   "ticker": "",
   "time_uk": "13:30",
   "why": "The Fed’s preferred inflation measure"
+ },
+ {
+  "date": "2026-11-25",
+  "event": "US GDP (third quarter)",
+  "id": "c41",
+  "kind": "Data",
+  "ticker": "",
+  "time_uk": "13:30",
+  "why": "Released alongside PCE inflation; expected to show the US economy grew strongly over the summer"
  },
  {
   "date": "2026-12-04",

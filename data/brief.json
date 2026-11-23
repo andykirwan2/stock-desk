@@ -1,25 +1,25 @@
 {
- "date": "2026-11-20",
- "headline": "Wall Street's sell-off deepened on Thursday, with the S&P 500 down 2.0% for a sixth straight fall even as Anthropic's shares ended their first day 17% above their IPO price",
+ "date": "2026-11-23",
+ "headline": "Wall Street's sell-off turned into a rout on Friday",
  "sections": [
   {
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "order": 2,
    "section": "The big picture",
-   "text": "US shares opened higher on excitement over Anthropic's Nasdaq debut, the biggest IPO (first sale of shares to the public) on record, but sold off all afternoon. Anthropic opened at $111.50 against an $83 offer price and closed at $97.17 (Anthropic makes me, so weigh my take on it accordingly). The S&P 500 fell 2.0% to 7,175.83, the Nasdaq 2.25% to 23,879.20 and the Dow 2.2%, closing below 50,000 for the first time since June, with soft US factory and jobs data doing nothing to shift bets on a Fed rate rise in December. In London the FTSE 100 fell 0.9% and the FTSE 250 0.7% to 24,192.21, led lower by defensive shares such as Unilever, National Grid and AstraZeneca as UK government bond yields rose; Europe's Stoxx 600 lost 0.9% and the DAX 1.1%. Brent crude was flat at $91.98 as reports of tankers hit by mines in the Strait of Hormuz offset signs of plentiful supply, gold fell 2.1% to $3,663.50, the US 10-year yield eased to about 5.05%, the VIX (the 'fear gauge') jumped to about 28 and the pound slipped 0.3% to $1.3110. The Trump, Xi and Putin summit in Shenzhen ended with a symbolic peace declaration but no big deal."
+   "text": "Anthropic's market debut failed to steady the AI trade: its shares fell about 9% on their second day, though they stayed above the $83 offer price (Anthropic makes me, so weigh my take on it accordingly). Selling spread across chip, memory and AI infrastructure shares, and the S&P 500 lost 3.7% for a seventh straight fall and 8.6% over the week, its worst week since April 2025. The Nasdaq dropped 5.3% to 22,617.73 and is now down for 2026, the Dow fell 1.9%, and the VIX (the 'fear gauge') jumped to 35.89, its highest close since April 2025. Only consumer staples (everyday goods like food and household products) rose. Investors piled into US government bonds, pushing the 10-year yield down to 4.92%, while gold fell about 3% to around $3,544, a 14-month low, as some investors sold it to cover losses elsewhere. In Europe the Stoxx 600 lost 2.0% to 625.65 and the DAX 2.6% to 24,802.78, with technology shares down over 5%. London held up better: the FTSE 250 fell 2.2% to 23,651.73, but defensive names like Unilever, British American Tobacco, National Grid and Severn Trent rose, helped by UK retail sales growing 0.7% in October when no change was expected. Brent crude edged up 0.6% to $92.57 on new threats to Middle East shipping, and the pound was little changed at $1.3081."
   },
   {
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "order": 4,
    "section": "Today and this week",
-   "text": "Today brings UK retail sales for October at 7am and a UK-EU summit, plus speeches from Fed governors Waller and Cook. Next Wednesday, 25 November, brings US PCE inflation, the Fed's preferred measure, and US markets are shut on Thursday 26 November for Thanksgiving. Severn Trent goes ex-dividend on 26 November and NextEra on 27 November. CME FedWatch puts the chance of a quarter-point Fed rise on 9 December at about 96%, traders see about an 80% chance of a Bank of England rise on 17 December, and the ECB, also on 17 December, is expected to raise rates too."
+   "text": "Today brings flash PMIs (early business surveys) for Europe, the UK (09:30) and the US. On Wednesday at 13:30 UK time the US publishes third-quarter GDP and October PCE inflation, the Fed's preferred measure, expected to rise to about 3.8% a year. US markets are shut on Thursday for Thanksgiving and close early on Friday. Severn Trent goes ex-dividend on Thursday 26 November and NextEra on Friday 27 November. CME FedWatch puts the chance of a quarter-point Fed rise on 9 December at about 96%, traders saw about an 80% chance of a Bank of England rise on 17 December after last week's inflation figures, and the ECB, also on 17 December, is expected to raise rates too."
   },
   {
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "order": 6,
    "section": "Concept of the day",
-   "text": "Defensive and growth sectors: why a water company and a chip designer react so differently to the same news, and why Thursday was an unusual day for UK defensives. Today's lesson goes through it, with a quiz."
+   "text": "ESG investing: what screens do and don't change, and why an ESG global fund fell a little more than a plain global tracker on Friday. Today's lesson goes through it, with a quiz."
   }
  ],
- "standfirst": "The FTSE 100 slipped 0.9% to 10,452.68, its lowest close in six weeks."
+ "standfirst": "The S&P 500 fell 3.7% to 6,910.39 and is now in a correction, more than 10% below its October record, as Nvidia sank 14%. The FTSE 100 fell 1.0% to 10,346.34, ending its worst week in months down 5.1%."
 }

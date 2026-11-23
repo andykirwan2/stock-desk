@@ -1,52 +1,52 @@
 [
  {
-  "as_of": "2026-11-19",
-  "detail": "Between 5% and 10% below the high counts as a pullback, and the S&P 500 closed at 7,175.83 on Thursday, about 8.2% below its record close of 7,818.93 on 6 October. It has now fallen six days running, its longest losing streak since 2024; dips of this size happen in most years.",
+  "as_of": "2026-11-20",
+  "detail": "Between 10% and 20% below the high counts as a correction, and the S&P 500 closed at 6,910.39 on Friday, about 11.6% below its record close of 7,818.93 on 6 October. Corrections happen every year or two on average, and most do not turn into bear markets.",
   "gauge": "S&P 500 vs its 52-week high",
   "id": "g1",
-  "reading": "A pullback",
-  "source": "Reuters closing figures, 19 Nov; record close from Anadolu and EdgeX, 6 Oct",
+  "reading": "A correction",
+  "source": "Reuters closing figures, 20 Nov; record close from Anadolu and EdgeX, 6 Oct",
   "unit": "%",
-  "value": -8.22
+  "value": -11.62
  },
  {
-  "as_of": "2026-11-19",
-  "detail": "Breadth was narrow on Thursday: on the Nasdaq 3,756 shares fell and only 1,057 rose, about 3.6 fallers for every riser. When most shares fall together, the selling is wide rather than limited to a few big names.",
+  "as_of": "2026-11-20",
+  "detail": "Breadth was very narrow on Friday: on the Nasdaq 3,964 shares fell and only 928 rose, about 4.3 fallers for every riser, with 826 new 52-week lows against 21 new highs. When almost everything falls together, the selling is wide rather than limited to a few big names.",
   "gauge": "Market breadth (Nasdaq)",
   "id": "g2",
   "reading": "Narrow",
-  "source": "Reuters closing breadth, 19 Nov",
+  "source": "Reuters closing breadth, 20 Nov",
   "unit": "",
   "value": null
  },
  {
-  "as_of": "2026-11-19",
-  "detail": "Above 4.5% counts as high, and the US 10-year yield eased slightly to about 5.05% on Thursday after softer US factory and jobs figures. Safe bonds paying over 5% set a high bar for shares to beat.",
+  "as_of": "2026-11-20",
+  "detail": "Above 4.5% counts as high, and the US 10-year yield fell to 4.92% on Friday as investors bought government bonds during the share sell-off. Safe bonds paying close to 5% still set a high bar for shares to beat.",
   "gauge": "US 10-year government bond yield",
   "id": "g3",
   "reading": "High",
-  "source": "US Treasury data via market recaps, 19 Nov",
+  "source": "The Closing Print closing levels, 20 Nov",
   "unit": "%",
-  "value": 5.05
+  "value": 4.92
  },
  {
-  "as_of": "2026-11-19",
-  "detail": "Markets expect rates to go up: CME FedWatch put the chance of a quarter-point Fed rise on 9 December at about 96% on Thursday, and traders see about an 80% chance of a Bank of England rise on 17 December. Higher rates make borrowing dearer and tend to weigh on share prices, especially fast-growing companies.",
+  "as_of": "2026-11-20",
+  "detail": "Markets expect rates to go up: CME FedWatch put the chance of a quarter-point Fed rise on 9 December at about 96% on Friday, and traders saw about an 80% chance of a Bank of England rise on 17 December. Higher rates make borrowing dearer and tend to weigh on share prices, especially fast-growing companies.",
   "gauge": "Interest rate expectations",
   "id": "g4",
   "reading": "Rises expected",
-  "source": "CME FedWatch via Reuters, 19 Nov; LSEG data via Reuters, 18 Nov",
+  "source": "CME FedWatch via Reuters, 20 Nov; LSEG data via Reuters, 18 Nov",
   "unit": "",
   "value": null
  },
  {
-  "as_of": "2026-11-19",
-  "detail": "Above $90 a barrel counts as expensive, and Brent crude settled almost unchanged at $91.98 on Thursday as reports of tankers hit by mines in the Strait of Hormuz offset signs of plentiful supply. Dear oil keeps pressure on inflation, which is one reason central banks are raising rates.",
+  "as_of": "2026-11-20",
+  "detail": "Above $90 a barrel counts as expensive, and Brent crude settled up 0.6% at $92.57 on Friday after new threats to shipping near Saudi Red Sea ports, though it fell for a third week. Dear oil keeps pressure on inflation, which is one reason central banks are raising rates.",
   "gauge": "Oil (Brent crude)",
   "id": "g5",
   "reading": "Expensive",
-  "source": "ICE settlement via Reuters, 19 Nov",
+  "source": "ICE settlement via Reuters and EnergyNow, 20 Nov",
   "unit": "$",
-  "value": 91.98
+  "value": 92.57
  }
 ]
