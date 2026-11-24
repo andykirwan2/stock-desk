@@ -422,5 +422,21 @@
  {
   "meaning": "An early estimate of a monthly survey of purchasing managers that shows whether business activity is growing (above 50) or shrinking (below 50).",
   "term": "Flash PMI"
+ },
+ {
+  "meaning": "A fund whose manager picks investments to try to beat the market, usually for a higher fee than a tracker.",
+  "term": "Active fund"
+ },
+ {
+  "meaning": "The gap between a tracker fund's return and the index it copies, mostly down to the fund's fees.",
+  "term": "Tracking difference"
+ },
+ {
+  "meaning": "S&P's regular scorecard comparing active funds with their benchmark indices.",
+  "term": "SPIVA"
+ },
+ {
+  "meaning": "A US index of around 30 big chip designers, makers and equipment suppliers, often used as a gauge of the chip industry.",
+  "term": "Philadelphia semiconductor index"
  }
 ]

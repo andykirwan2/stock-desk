@@ -1,14 +1,5 @@
 [
  {
-  "date": "2026-11-23",
-  "event": "UK flash PMI (November)",
-  "id": "c40",
-  "kind": "Data",
-  "ticker": "",
-  "time_uk": "09:30",
-  "why": "An early read on UK business activity ahead of the Bank of England's 17 Dec decision"
- },
- {
   "date": "2026-11-25",
   "event": "US PCE inflation (October)",
   "id": "c23",
@@ -60,7 +51,7 @@
   "kind": "Central bank",
   "ticker": "",
   "time_uk": "12:00",
-  "why": "After November's rise to 4%, traders see about an 80% chance of another rise, trimmed from 90% after October inflation came in slightly below the Bank's forecast"
+  "why": "After November's rise to 4%, traders see about an 85% chance of another rise, up from about 80% last week"
  },
  {
   "date": "2026-12-17",

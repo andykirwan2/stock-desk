@@ -1,0 +1,139 @@
+{
+ "brief": {
+  "date": "2026-11-24",
+  "headline": "Wall Street had its best day since April 2025 after Nvidia brought back Jensen Huang as chief executive",
+  "sections": [
+   {
+    "date": "2026-11-24",
+    "order": 2,
+    "section": "The big picture",
+    "text": "Nvidia's board reinstated Huang less than two weeks after he resigned, and the relief lifted the whole AI trade: the Philadelphia semiconductor index (a basket of US chip companies) jumped 14% and the Dow gained 3.0% to 49,595.31. The S&P 500 ended a seven-day losing run and won back about half of last week's 8.6% fall, taking it out of correction territory: it is now about 7.4% below its October record. The VIX (the 'fear gauge') fell 26% to 26.62. In Europe the Stoxx 600 rose 1.8% to 636.97 and the DAX 2.2% to 25,337.27, led by chip-equipment makers. London's FTSE 250 rose 1.7% to 24,061.90, its biggest jump since April, with banks and miners leading. Gold rose nearly 4% to about $3,651 an ounce, while Brent crude fell 3.5% to $89.37 as a Libyan pipeline restarted and Middle East supply rose. The dollar hit a 19-month high as traders bet on Fed rate rises, so the pound slipped 0.4% to $1.3032. A flash PMI (an early business survey, where above 50 means growth) showed UK activity slowing slightly in November, to 52.3 from 52.9."
+   },
+   {
+    "date": "2026-11-24",
+    "order": 4,
+    "section": "Today and this week",
+    "text": "On Wednesday at 13:30 UK time the US publishes third-quarter GDP and October PCE inflation, the Fed's preferred inflation measure. US markets are shut on Thursday for Thanksgiving and close early on Friday. Severn Trent goes ex-dividend on Thursday 26 November and NextEra on Friday 27 November, with Nvidia following on 2 December. CME FedWatch puts the chance of a quarter-point Fed rise on 9 December at about 96%, and traders now see about an 85% chance of a Bank of England rise on 17 December, up from about 80% last week. The ECB also meets on 17 December and is expected to raise rates."
+   },
+   {
+    "date": "2026-11-24",
+    "order": 6,
+    "section": "Concept of the day",
+    "text": "Benchmarks: how to judge an investment against a fair yardstick, and why a portfolio's gap to a global tracker can swing sharply in a single day. Today's lesson goes through it, with a quiz."
+   }
+  ],
+  "standfirst": "The S&P 500 jumped 4.7% to 7,237.17 and the Nasdaq 6.5% to 24,089.56, as Nvidia soared 31.5%. The FTSE 100 rose 1.3% to 10,480.82, ending a five-day losing run."
+ },
+ "date": "2026-11-24",
+ "lesson": 19,
+ "markets": [
+  {
+   "as_of": "2026-11-23",
+   "change_pct": 1.3,
+   "kind": "Index",
+   "level": 10480.82,
+   "name": "FTSE 100",
+   "note": "UK's 100 biggest listed companies",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": 1.73,
+   "kind": "Index",
+   "level": 24061.9,
+   "name": "FTSE 250",
+   "note": "The next 250: more tied to the UK economy",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": 4.73,
+   "kind": "Index",
+   "level": 7237.17,
+   "name": "S&P 500",
+   "note": "500 large US companies",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": 6.51,
+   "kind": "Index",
+   "level": 24089.56,
+   "name": "Nasdaq",
+   "note": "Tech-heavy US index",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": 1.81,
+   "kind": "Index",
+   "level": 636.97,
+   "name": "Stoxx 600",
+   "note": "600 companies across Europe",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": 2.15,
+   "kind": "Index",
+   "level": 25337.27,
+   "name": "DAX",
+   "note": "Germany's 40 biggest companies",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": -0.37,
+   "kind": "Currency",
+   "level": 1.3032,
+   "name": "GBP/USD",
+   "note": "Dollars per pound",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": -0.64,
+   "kind": "Currency",
+   "level": 1.0897,
+   "name": "EUR/USD",
+   "note": "Dollars per euro",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": -3.46,
+   "kind": "Commodity",
+   "level": 89.37,
+   "name": "Brent crude",
+   "note": "Oil, $ per barrel",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": 3.87,
+   "kind": "Commodity",
+   "level": 3651.4,
+   "name": "Gold",
+   "note": "$ per ounce",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": 0,
+   "kind": "Rate",
+   "level": 4.92,
+   "name": "US 10-year yield",
+   "note": "Interest rate on US government debt, %",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-23",
+   "change_pct": -25.83,
+   "kind": "Gauge",
+   "level": 26.62,
+   "name": "VIX",
+   "note": "'Fear gauge': expected US volatility",
+   "region": "US"
+  }
+ ]
+}
