@@ -1,25 +1,25 @@
 {
- "date": "2026-11-24",
- "headline": "Wall Street had its best day since April 2025 after Nvidia brought back Jensen Huang as chief executive",
+ "date": "2026-11-25",
+ "headline": "AI shares gave back part of Monday's rally on Tuesday",
  "sections": [
   {
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "order": 2,
    "section": "The big picture",
-   "text": "Nvidia's board reinstated Huang less than two weeks after he resigned, and the relief lifted the whole AI trade: the Philadelphia semiconductor index (a basket of US chip companies) jumped 14% and the Dow gained 3.0% to 49,595.31. The S&P 500 ended a seven-day losing run and won back about half of last week's 8.6% fall, taking it out of correction territory: it is now about 7.4% below its October record. The VIX (the 'fear gauge') fell 26% to 26.62. In Europe the Stoxx 600 rose 1.8% to 636.97 and the DAX 2.2% to 25,337.27, led by chip-equipment makers. London's FTSE 250 rose 1.7% to 24,061.90, its biggest jump since April, with banks and miners leading. Gold rose nearly 4% to about $3,651 an ounce, while Brent crude fell 3.5% to $89.37 as a Libyan pipeline restarted and Middle East supply rose. The dollar hit a 19-month high as traders bet on Fed rate rises, so the pound slipped 0.4% to $1.3032. A flash PMI (an early business survey, where above 50 means growth) showed UK activity slowing slightly in November, to 52.3 from 52.9."
+   "text": "Nvidia slid 5.9% as investors weighed the governance and political questions around Jensen Huang's return, the Philadelphia semiconductor index (a basket of US chip companies) fell 7.9%, and the S&P 500 slipped 0.5% to 7,201.09, its eighth fall in nine sessions. Away from chips most shares rose: healthcare led after Sanofi agreed to buy US biotech Insmed for $41 billion, US consumer confidence jumped to its highest in nearly two years, and the Dow gained 0.9% to 50,018.70, though reports that the US is about to announce new tariffs (taxes on imports) kept investors cautious. Anthropic's shares fell 6.5% to $81.90, below their $83 IPO price, adding to doubts about AI spending; Anthropic makes Claude, which writes this brief, so weigh that accordingly. In Europe the Stoxx 600 fell 0.7% to 632.74 and the DAX 1.3% to 25,005.51 on chip losses, while London's FTSE 250 lost 0.8% to 23,858.88 as miners fell with gold, down 2.5% to $3,561.90 an ounce; Brent crude rose 2.3% to $91.40 after more tankers were hit in the Strait of Hormuz, and the pound rose 0.7% to $1.3110 as the dollar eased."
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "order": 4,
    "section": "Today and this week",
-   "text": "On Wednesday at 13:30 UK time the US publishes third-quarter GDP and October PCE inflation, the Fed's preferred inflation measure. US markets are shut on Thursday for Thanksgiving and close early on Friday. Severn Trent goes ex-dividend on Thursday 26 November and NextEra on Friday 27 November, with Nvidia following on 2 December. CME FedWatch puts the chance of a quarter-point Fed rise on 9 December at about 96%, and traders now see about an 85% chance of a Bank of England rise on 17 December, up from about 80% last week. The ECB also meets on 17 December and is expected to raise rates."
+   "text": "Today at 13:30 UK time the US publishes third-quarter GDP and October PCE inflation, the Fed's preferred inflation measure: Morgan Stanley expects headline PCE to rise to 3.8% from 3.6%. The Fed's Beige Book (its round-up of business conditions) follows at 19:00, and the US is expected to announce new tariffs on 16 trading partners this week. US markets are shut on Thursday for Thanksgiving and close early on Friday. Severn Trent goes ex-dividend on Thursday 26 November and NextEra on Friday 27 November, with Nvidia following on 2 December. CME FedWatch puts the chance of a quarter-point Fed rise on 9 December at about 97%, with about a 66% chance of another in January, and markets price about an 80% chance of a Bank of England rise on 17 December, when the ECB is also expected to raise rates."
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "order": 6,
    "section": "Concept of the day",
-   "text": "Benchmarks: how to judge an investment against a fair yardstick, and why a portfolio's gap to a global tracker can swing sharply in a single day. Today's lesson goes through it, with a quiz."
+   "text": "Investor behaviour: why chasing a 31.5% jump or panicking at a 6% fall is one of the costliest habits, and how to avoid it. Today's lesson goes through it, with a quiz."
   }
  ],
- "standfirst": "The S&P 500 jumped 4.7% to 7,237.17 and the Nasdaq 6.5% to 24,089.56, as Nvidia soared 31.5%. The FTSE 100 rose 1.3% to 10,480.82, ending a five-day losing run."
+ "standfirst": "Nvidia fell 5.9% and the Nasdaq 1.5% to 23,733.54, while the Dow rose 0.9% to close back above 50,000 as investors switched into healthcare and shops. The FTSE 100 dipped 0.1% to 10,467.07."
 }

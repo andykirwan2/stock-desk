@@ -6,7 +6,7 @@
   "kind": "Data",
   "ticker": "",
   "time_uk": "13:30",
-  "why": "The Fed’s preferred inflation measure"
+  "why": "The Fed’s preferred inflation measure; Morgan Stanley expects headline PCE to rise to 3.8% from 3.6%"
  },
  {
   "date": "2026-11-25",
@@ -15,7 +15,16 @@
   "kind": "Data",
   "ticker": "",
   "time_uk": "13:30",
-  "why": "Released alongside PCE inflation; expected to show the US economy grew strongly over the summer"
+  "why": "Second estimate, released alongside PCE inflation"
+ },
+ {
+  "date": "2026-11-25",
+  "event": "Fed Beige Book",
+  "id": "c42",
+  "kind": "Central bank",
+  "ticker": "",
+  "time_uk": "19:00",
+  "why": "The Fed's round-up of business conditions across the US, two weeks before its 9 Dec decision"
  },
  {
   "date": "2026-12-04",
@@ -33,7 +42,7 @@
   "kind": "Central bank",
   "ticker": "",
   "time_uk": "~19:00",
-  "why": "Futures fully price a quarter-point rise, and Fed Governor Waller has argued for considering a half-point move; new Fed forecasts too"
+  "why": "CME FedWatch puts a quarter-point rise at about 97%, with about a 66% chance of another in January; new Fed forecasts too"
  },
  {
   "date": "2026-12-10",
@@ -51,7 +60,7 @@
   "kind": "Central bank",
   "ticker": "",
   "time_uk": "12:00",
-  "why": "After November's rise to 4%, traders see about an 85% chance of another rise, up from about 80% last week"
+  "why": "After November's rise to 4%, markets price about an 80% chance of another rise"
  },
  {
   "date": "2026-12-17",

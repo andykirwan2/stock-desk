@@ -1,52 +1,52 @@
 [
  {
-  "as_of": "2026-11-23",
-  "detail": "Between 5% and 10% below the high counts as a pullback, and the S&P 500 closed at 7,237.17 on Monday, about 7.4% below its record close of 7,818.93 on 6 October, after a 4.7% jump took it out of correction territory. Big swings both ways are common after sharp falls, so one strong day doesn't mean the worry is over.",
+  "as_of": "2026-11-24",
+  "detail": "Between 5% and 10% below the high counts as a pullback, and the S&P 500 closed at 7,201.09 on Tuesday, about 7.9% below its record close of 7,818.93 on 6 October, after a 0.5% dip. It has now fallen on eight of the last nine trading days, a reminder that recoveries rarely go in a straight line.",
   "gauge": "S&P 500 vs its 52-week high",
   "id": "g1",
   "reading": "A pullback",
-  "source": "CNBC and AP closing figures, 23 Nov; record close from Anadolu and EdgeX, 6 Oct",
+  "source": "Reuters closing figures via StreetInsider, 24 Nov; record close from Anadolu and EdgeX, 6 Oct",
   "unit": "%",
-  "value": -7.44
+  "value": -7.9
  },
  {
-  "as_of": "2026-11-23",
-  "detail": "Breadth was broad on Monday: on the Nasdaq 2,804 shares rose and 746 fell, nearly four risers for every faller. A rally that lifts most shares, not just a few giants, is a healthier sign than one carried by a handful of names.",
+  "as_of": "2026-11-24",
+  "detail": "Breadth was mixed on Tuesday: on the Nasdaq 2,376 shares rose and 2,548 fell, roughly even, though 323 hit new 52-week lows against 49 new highs. Selling was deep in chip and AI shares while healthcare and shops rose, so the damage was concentrated rather than market-wide.",
   "gauge": "Market breadth (Nasdaq)",
   "id": "g2",
-  "reading": "Broad",
-  "source": "Reuters closing breadth via Investing.com, 23 Nov",
+  "reading": "Mixed",
+  "source": "Reuters closing breadth via StreetInsider, 24 Nov",
   "unit": "",
   "value": null
  },
  {
-  "as_of": "2026-11-23",
-  "detail": "Above 4.5% counts as high, and the US 10-year yield ended Monday little changed at 4.92% as investors weighed the share rebound against bets on Fed rate rises. Safe bonds paying close to 5% still set a high bar for shares to beat.",
+  "as_of": "2026-11-24",
+  "detail": "Above 4.5% counts as high, and the US 10-year yield edged down to about 4.90% on Tuesday ahead of today's inflation figures. Safe bonds paying close to 5% still set a high bar for shares to beat.",
   "gauge": "US 10-year government bond yield",
   "id": "g3",
   "reading": "High",
-  "source": "Hammerstone and Armstrong Economics closing levels, 23 Nov",
+  "source": "Investrade closing level, 24 Nov",
   "unit": "%",
-  "value": 4.92
+  "value": 4.9
  },
  {
-  "as_of": "2026-11-23",
-  "detail": "Markets expect rates to go up: CME FedWatch put the chance of a quarter-point Fed rise on 9 December at about 96% on Monday, and traders saw about an 85% chance of a Bank of England rise on 17 December. Higher rates make borrowing dearer and tend to weigh on share prices, especially fast-growing companies.",
+  "as_of": "2026-11-24",
+  "detail": "Markets expect rates to go up: CME FedWatch put the chance of a quarter-point Fed rise on 9 December at about 97% on Tuesday, with about a 66% chance of another in January, and markets price about an 80% chance of a Bank of England rise on 17 December. Higher rates make borrowing dearer and tend to weigh on share prices, especially fast-growing companies.",
   "gauge": "Interest rate expectations",
   "id": "g4",
   "reading": "Rises expected",
-  "source": "CME FedWatch via Hammerstone, 23 Nov; LSEG data via Reuters, 23 Nov",
+  "source": "CME FedWatch via Reuters, 24 Nov; RateProbability OIS pricing, 25 Nov",
   "unit": "",
   "value": null
  },
  {
-  "as_of": "2026-11-23",
-  "detail": "Between $65 and $90 a barrel counts as normal, and Brent crude fell 3.5% to settle at $89.37 on Monday, just under the line and its lowest since late August, as a Libyan pipeline restarted and Middle East supply rose. Cheaper oil eases pressure on inflation, though prices are still high by recent standards.",
+  "as_of": "2026-11-24",
+  "detail": "Above $90 a barrel counts as expensive, and Brent crude rose 2.3% to settle at $91.40 on Tuesday, back over that line after more tankers were hit in the Strait of Hormuz. Dearer oil feeds into fuel and transport costs, which can keep inflation and interest rates higher for longer.",
   "gauge": "Oil (Brent crude)",
   "id": "g5",
-  "reading": "Normal",
-  "source": "ICE settlement via Dow Jones and Reuters, 23 Nov",
+  "reading": "Expensive",
+  "source": "ICE settlement via Bloomberg (Rigzone) and Investrade, 24 Nov",
   "unit": "$",
-  "value": 89.37
+  "value": 91.4
  }
 ]

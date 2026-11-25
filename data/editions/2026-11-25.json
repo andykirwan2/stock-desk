@@ -1,0 +1,139 @@
+{
+ "brief": {
+  "date": "2026-11-25",
+  "headline": "AI shares gave back part of Monday's rally on Tuesday",
+  "sections": [
+   {
+    "date": "2026-11-25",
+    "order": 2,
+    "section": "The big picture",
+    "text": "Nvidia slid 5.9% as investors weighed the governance and political questions around Jensen Huang's return, the Philadelphia semiconductor index (a basket of US chip companies) fell 7.9%, and the S&P 500 slipped 0.5% to 7,201.09, its eighth fall in nine sessions. Away from chips most shares rose: healthcare led after Sanofi agreed to buy US biotech Insmed for $41 billion, US consumer confidence jumped to its highest in nearly two years, and the Dow gained 0.9% to 50,018.70, though reports that the US is about to announce new tariffs (taxes on imports) kept investors cautious. Anthropic's shares fell 6.5% to $81.90, below their $83 IPO price, adding to doubts about AI spending; Anthropic makes Claude, which writes this brief, so weigh that accordingly. In Europe the Stoxx 600 fell 0.7% to 632.74 and the DAX 1.3% to 25,005.51 on chip losses, while London's FTSE 250 lost 0.8% to 23,858.88 as miners fell with gold, down 2.5% to $3,561.90 an ounce; Brent crude rose 2.3% to $91.40 after more tankers were hit in the Strait of Hormuz, and the pound rose 0.7% to $1.3110 as the dollar eased."
+   },
+   {
+    "date": "2026-11-25",
+    "order": 4,
+    "section": "Today and this week",
+    "text": "Today at 13:30 UK time the US publishes third-quarter GDP and October PCE inflation, the Fed's preferred inflation measure: Morgan Stanley expects headline PCE to rise to 3.8% from 3.6%. The Fed's Beige Book (its round-up of business conditions) follows at 19:00, and the US is expected to announce new tariffs on 16 trading partners this week. US markets are shut on Thursday for Thanksgiving and close early on Friday. Severn Trent goes ex-dividend on Thursday 26 November and NextEra on Friday 27 November, with Nvidia following on 2 December. CME FedWatch puts the chance of a quarter-point Fed rise on 9 December at about 97%, with about a 66% chance of another in January, and markets price about an 80% chance of a Bank of England rise on 17 December, when the ECB is also expected to raise rates."
+   },
+   {
+    "date": "2026-11-25",
+    "order": 6,
+    "section": "Concept of the day",
+    "text": "Investor behaviour: why chasing a 31.5% jump or panicking at a 6% fall is one of the costliest habits, and how to avoid it. Today's lesson goes through it, with a quiz."
+   }
+  ],
+  "standfirst": "Nvidia fell 5.9% and the Nasdaq 1.5% to 23,733.54, while the Dow rose 0.9% to close back above 50,000 as investors switched into healthcare and shops. The FTSE 100 dipped 0.1% to 10,467.07."
+ },
+ "date": "2026-11-25",
+ "lesson": 20,
+ "markets": [
+  {
+   "as_of": "2026-11-24",
+   "change_pct": -0.13,
+   "kind": "Index",
+   "level": 10467.07,
+   "name": "FTSE 100",
+   "note": "UK's 100 biggest listed companies",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": -0.84,
+   "kind": "Index",
+   "level": 23858.88,
+   "name": "FTSE 250",
+   "note": "The next 250: more tied to the UK economy",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": -0.5,
+   "kind": "Index",
+   "level": 7201.09,
+   "name": "S&P 500",
+   "note": "500 large US companies",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": -1.48,
+   "kind": "Index",
+   "level": 23733.54,
+   "name": "Nasdaq",
+   "note": "Tech-heavy US index",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": -0.66,
+   "kind": "Index",
+   "level": 632.74,
+   "name": "Stoxx 600",
+   "note": "600 companies across Europe",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": -1.31,
+   "kind": "Index",
+   "level": 25005.51,
+   "name": "DAX",
+   "note": "Germany's 40 biggest companies",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": 0.69,
+   "kind": "Currency",
+   "level": 1.311,
+   "name": "GBP/USD",
+   "note": "Dollars per pound",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": 0.62,
+   "kind": "Currency",
+   "level": 1.0967,
+   "name": "EUR/USD",
+   "note": "Dollars per euro",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": 2.27,
+   "kind": "Commodity",
+   "level": 91.4,
+   "name": "Brent crude",
+   "note": "Oil, $ per barrel",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": -2.45,
+   "kind": "Commodity",
+   "level": 3561.9,
+   "name": "Gold",
+   "note": "$ per ounce",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": -0.28,
+   "kind": "Rate",
+   "level": 4.9,
+   "name": "US 10-year yield",
+   "note": "Interest rate on US government debt, %",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-24",
+   "change_pct": -0.98,
+   "kind": "Gauge",
+   "level": 26.36,
+   "name": "VIX",
+   "note": "'Fear gauge': expected US volatility",
+   "region": "US"
+  }
+ ]
+}

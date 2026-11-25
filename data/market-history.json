@@ -66,6 +66,12 @@
   "name": "Brent crude"
  },
  {
+  "change_pct": 2.27,
+  "date": "2026-11-24",
+  "level": 91.4,
+  "name": "Brent crude"
+ },
+ {
   "date": "2026-10-30",
   "name": "DAX",
   "level": 25818.21,
@@ -129,6 +135,12 @@
   "change_pct": 2.15,
   "date": "2026-11-23",
   "level": 25337.27,
+  "name": "DAX"
+ },
+ {
+  "change_pct": -1.31,
+  "date": "2026-11-24",
+  "level": 25005.51,
   "name": "DAX"
  },
  {
@@ -198,6 +210,12 @@
   "name": "EUR/USD"
  },
  {
+  "change_pct": 0.62,
+  "date": "2026-11-24",
+  "level": 1.0967,
+  "name": "EUR/USD"
+ },
+ {
   "date": "2026-10-30",
   "name": "FTSE 100",
   "level": 10729.78,
@@ -264,6 +282,12 @@
   "name": "FTSE 100"
  },
  {
+  "change_pct": -0.13,
+  "date": "2026-11-24",
+  "level": 10467.07,
+  "name": "FTSE 100"
+ },
+ {
   "date": "2026-10-29",
   "name": "FTSE 250",
   "level": 24674.16,
@@ -321,6 +345,12 @@
   "change_pct": 1.73,
   "date": "2026-11-23",
   "level": 24061.9,
+  "name": "FTSE 250"
+ },
+ {
+  "change_pct": -0.84,
+  "date": "2026-11-24",
+  "level": 23858.88,
   "name": "FTSE 250"
  },
  {
@@ -390,6 +420,12 @@
   "name": "GBP/USD"
  },
  {
+  "change_pct": 0.69,
+  "date": "2026-11-24",
+  "level": 1.311,
+  "name": "GBP/USD"
+ },
+ {
   "date": "2026-10-30",
   "name": "Gold",
   "level": 3874.62,
@@ -453,6 +489,12 @@
   "change_pct": 3.87,
   "date": "2026-11-23",
   "level": 3651.4,
+  "name": "Gold"
+ },
+ {
+  "change_pct": -2.45,
+  "date": "2026-11-24",
+  "level": 3561.9,
   "name": "Gold"
  },
  {
@@ -522,6 +564,12 @@
   "name": "Nasdaq"
  },
  {
+  "change_pct": -1.48,
+  "date": "2026-11-24",
+  "level": 23733.54,
+  "name": "Nasdaq"
+ },
+ {
   "date": "2026-10-30",
   "name": "S&P 500",
   "level": 7580.07,
@@ -585,6 +633,12 @@
   "change_pct": 4.73,
   "date": "2026-11-23",
   "level": 7237.17,
+  "name": "S&P 500"
+ },
+ {
+  "change_pct": -0.5,
+  "date": "2026-11-24",
+  "level": 7201.09,
   "name": "S&P 500"
  },
  {
@@ -654,6 +708,12 @@
   "name": "Stoxx 600"
  },
  {
+  "change_pct": -0.66,
+  "date": "2026-11-24",
+  "level": 632.74,
+  "name": "Stoxx 600"
+ },
+ {
   "date": "2026-10-30",
   "name": "US 10-year yield",
   "level": 4.93,
@@ -720,6 +780,12 @@
   "name": "US 10-year yield"
  },
  {
+  "change_pct": -0.28,
+  "date": "2026-11-24",
+  "level": 4.9,
+  "name": "US 10-year yield"
+ },
+ {
   "date": "2026-10-30",
   "name": "VIX",
   "level": 19.42,
@@ -783,6 +849,12 @@
   "change_pct": -25.83,
   "date": "2026-11-23",
   "level": 26.62,
+  "name": "VIX"
+ },
+ {
+  "change_pct": -0.98,
+  "date": "2026-11-24",
+  "level": 26.36,
   "name": "VIX"
  }
 ]
