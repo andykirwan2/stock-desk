@@ -1,25 +1,25 @@
 {
- "date": "2026-11-25",
- "headline": "AI shares gave back part of Monday's rally on Tuesday",
+ "date": "2026-11-26",
+ "headline": "Wall Street clawed back most of a sharp morning sell-off on Wednesday",
  "sections": [
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "order": 2,
    "section": "The big picture",
-   "text": "Nvidia slid 5.9% as investors weighed the governance and political questions around Jensen Huang's return, the Philadelphia semiconductor index (a basket of US chip companies) fell 7.9%, and the S&P 500 slipped 0.5% to 7,201.09, its eighth fall in nine sessions. Away from chips most shares rose: healthcare led after Sanofi agreed to buy US biotech Insmed for $41 billion, US consumer confidence jumped to its highest in nearly two years, and the Dow gained 0.9% to 50,018.70, though reports that the US is about to announce new tariffs (taxes on imports) kept investors cautious. Anthropic's shares fell 6.5% to $81.90, below their $83 IPO price, adding to doubts about AI spending; Anthropic makes Claude, which writes this brief, so weigh that accordingly. In Europe the Stoxx 600 fell 0.7% to 632.74 and the DAX 1.3% to 25,005.51 on chip losses, while London's FTSE 250 lost 0.8% to 23,858.88 as miners fell with gold, down 2.5% to $3,561.90 an ounce; Brent crude rose 2.3% to $91.40 after more tankers were hit in the Strait of Hormuz, and the pound rose 0.7% to $1.3110 as the dollar eased."
+   "text": "Core PCE inflation (the Fed's preferred measure, which leaves out food and energy) rose to 3.3% in October, a touch above the 3.2% expected, and the US economy grew at a 4.3% annual rate in the third quarter, faster than first thought; traders now see about a 98% chance of a Fed rate rise on 9 December. At the same time the US proposed new tariffs (taxes on imports) of up to 20% on 14 trading partners including China and the EU, starting January at the earliest. Chip and AI shares took the brunt, with Nvidia down 3.9%, but bargain hunters stepped in during the afternoon and the S&P 500 closed only 0.25% lower at 7,182.78, while the VIX (Wall Street's 'fear gauge') rose 7.3% to 28.29. In Europe, which had already closed, the Stoxx 600 fell 1.1% to 626.03 and the DAX 1.3% to 24,702.13; in London, defensive shares such as Imperial Brands and Unilever rose while banks and miners fell, and the FTSE 250 lost 0.9% to 23,637.00, a four-month low. Brent crude jumped 3.5% to $94.61 a barrel after Yemen's Houthis said they had attacked Saudi Arabia's biggest refinery, and the US 10-year yield eased to about 4.85% as money moved into bonds."
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "order": 4,
    "section": "Today and this week",
-   "text": "Today at 13:30 UK time the US publishes third-quarter GDP and October PCE inflation, the Fed's preferred inflation measure: Morgan Stanley expects headline PCE to rise to 3.8% from 3.6%. The Fed's Beige Book (its round-up of business conditions) follows at 19:00, and the US is expected to announce new tariffs on 16 trading partners this week. US markets are shut on Thursday for Thanksgiving and close early on Friday. Severn Trent goes ex-dividend on Thursday 26 November and NextEra on Friday 27 November, with Nvidia following on 2 December. CME FedWatch puts the chance of a quarter-point Fed rise on 9 December at about 97%, with about a 66% chance of another in January, and markets price about an 80% chance of a Bank of England rise on 17 December, when the ECB is also expected to raise rates."
+   "text": "US markets are shut today for Thanksgiving and close early on Friday (at 18:00 UK time), so expect thin trading. The Bank of England publishes its Financial Stability Report today, and Severn Trent goes ex-dividend today, so its price will drop by roughly the dividend as new buyers no longer get it; NextEra follows on Friday. OPEC+ (the group of big oil producers) meets on Sunday 29 November to set 2027 output, which matters for oil after this week's jump. Next week brings Nvidia's ex-dividend date on 2 December and the US jobs report on 4 December, ahead of the Fed on 9 December (about a 98% chance of a quarter-point rise priced) and the Bank of England and ECB on 17 December (about an 80% chance of a Bank of England rise)."
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "order": 6,
    "section": "Concept of the day",
-   "text": "Investor behaviour: why chasing a 31.5% jump or panicking at a 6% fall is one of the costliest habits, and how to avoid it. Today's lesson goes through it, with a quiz."
+   "text": "Your long-term plan: how investing a set amount each month and rebalancing once or twice a year turn a scary week like this into a routine one. Today's lesson goes through it, with a quiz."
   }
  ],
- "standfirst": "Nvidia fell 5.9% and the Nasdaq 1.5% to 23,733.54, while the Dow rose 0.9% to close back above 50,000 as investors switched into healthcare and shops. The FTSE 100 dipped 0.1% to 10,467.07."
+ "standfirst": "The Nasdaq had fallen as much as 4.6% on hotter US inflation and new tariff plans, but closed down just 0.6% at 23,585.80, while the Dow rose 0.3% to 50,182.95. The FTSE 100 slipped 0.4% to 10,426.94."
 }

@@ -295,23 +295,23 @@
   "quiz_d": "Reinvesting dividends",
   "quiz_explain": "Jumping in after rises and out after falls means buying high and selling low, which is what opens up the behaviour gap between a fund's return and its investors' return.",
   "quiz_q": "Which habit does research most often link to investors earning less than the very funds they own?",
-  "status": "Today",
+  "status": "Done",
   "summary": "The habits that cost beginners most",
   "title": "Investor behaviour"
  },
  {
+  "body": "A long-term plan answers three questions before the market tests you: how much will I put in, how often, and what will I do when things go wrong? Two habits do most of the work: regular investing and rebalancing.\n\nRegular investing means putting in a set amount on a set day, say £100 on the first of each month, whatever the headlines say. This is often called pound-cost averaging. When prices fall, the same £100 buys more. Take a broad global fund whose units cost about £6.49 in October and closed at about £6.07 this week: £100 would buy about 15.4 units at the first price and about 16.5 at the second. You never need to guess the bottom; the plan does the buying for you.\n\nRebalancing means bringing your mix back to the targets you chose. Imagine a portfolio that aims for 60% in a global fund, 10% in a theme fund and 6% in each of five shares. Markets move those weights. After a sharp sell-off in chip shares, like this month's, a 6% slot in a chipmaker can shrink to under 5%, while the global fund drifts above 60%. Rebalancing would mean selling a little of what has grown and topping up what has shrunk. It sounds backwards, but it is a built-in way to sell high and buy low, and it stops one theme quietly taking over.\n\nKeep it simple. Many investors rebalance once or twice a year, or only when a holding drifts more than about five percentage points from its target. Doing it more often adds costs, such as stamp duty on UK shares and FX fees on overseas ones. In an ISA there is no tax to pay when you sell, which makes rebalancing cheaper. Using new monthly money to top up the laggards, rather than selling, is cheaper still.\n\nFinally, write it down: your targets, your monthly amount, your rebalancing date and what would genuinely change the plan, such as a new goal or a change in when you need the money. A week like this one, with the Nasdaq down 4.6% in a morning, is exactly when a written plan earns its keep.",
+  "date": "2026-11-26",
   "n": 21,
-  "status": "Upcoming",
-  "date": "",
-  "title": "Your long-term plan",
+  "quiz_a": "Topping the fund back up towards 10%, using new money or by trimming what has grown",
+  "quiz_answer": "a",
+  "quiz_b": "Selling the rest of the fund because it has fallen",
+  "quiz_c": "Waiting until the fund recovers before doing anything",
+  "quiz_d": "Raising the target to 20% to make up for the loss",
+  "quiz_explain": "Rebalancing returns each holding to its chosen target, which means adding to what has fallen and trimming what has risen, a disciplined way to buy low and sell high.",
+  "quiz_q": "A portfolio aims for 10% in a fund, but after a fall the fund is now 8% of the total. What does rebalancing mean here?",
+  "status": "Today",
   "summary": "Regular investing and rebalancing",
-  "body": "",
-  "quiz_q": "",
-  "quiz_a": "",
-  "quiz_b": "",
-  "quiz_c": "",
-  "quiz_d": "",
-  "quiz_answer": "",
-  "quiz_explain": ""
+  "title": "Your long-term plan"
  }
 ]

@@ -1,30 +1,21 @@
 [
  {
-  "date": "2026-11-25",
-  "event": "US PCE inflation (October)",
-  "id": "c23",
-  "kind": "Data",
-  "ticker": "",
-  "time_uk": "13:30",
-  "why": "The Fed’s preferred inflation measure; Morgan Stanley expects headline PCE to rise to 3.8% from 3.6%"
- },
- {
-  "date": "2026-11-25",
-  "event": "US GDP (third quarter)",
-  "id": "c41",
-  "kind": "Data",
-  "ticker": "",
-  "time_uk": "13:30",
-  "why": "Second estimate, released alongside PCE inflation"
- },
- {
-  "date": "2026-11-25",
-  "event": "Fed Beige Book",
-  "id": "c42",
+  "date": "2026-11-26",
+  "event": "Bank of England Financial Stability Report",
+  "id": "c43",
   "kind": "Central bank",
   "ticker": "",
-  "time_uk": "19:00",
-  "why": "The Fed's round-up of business conditions across the US, two weeks before its 9 Dec decision"
+  "time_uk": "",
+  "why": "The Bank's check on risks to UK banks and markets, three weeks before its 17 Dec rate decision"
+ },
+ {
+  "date": "2026-11-29",
+  "event": "OPEC+ meeting on 2027 oil output",
+  "id": "c44",
+  "kind": "Policy",
+  "ticker": "",
+  "time_uk": "",
+  "why": "Sets how much the big oil producers pump next year, with Brent already above $90 a barrel"
  },
  {
   "date": "2026-12-04",
@@ -42,7 +33,7 @@
   "kind": "Central bank",
   "ticker": "",
   "time_uk": "~19:00",
-  "why": "CME FedWatch puts a quarter-point rise at about 97%, with about a 66% chance of another in January; new Fed forecasts too"
+  "why": "Markets price about a 98% chance of a quarter-point rise after October's hotter inflation figures; new Fed forecasts too"
  },
  {
   "date": "2026-12-10",
