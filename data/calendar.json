@@ -1,21 +1,12 @@
 [
  {
-  "date": "2026-11-26",
-  "event": "Bank of England Financial Stability Report",
-  "id": "c43",
-  "kind": "Central bank",
-  "ticker": "",
-  "time_uk": "",
-  "why": "The Bank's check on risks to UK banks and markets, three weeks before its 17 Dec rate decision"
- },
- {
   "date": "2026-11-29",
   "event": "OPEC+ meeting on 2027 oil output",
   "id": "c44",
   "kind": "Policy",
   "ticker": "",
   "time_uk": "",
-  "why": "Sets how much the big oil producers pump next year, with Brent already above $90 a barrel"
+  "why": "Sets how much the big oil producers pump next year, with Brent near $97 a barrel; reports suggest current targets may be rolled over"
  },
  {
   "date": "2026-12-04",

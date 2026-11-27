@@ -1,0 +1,139 @@
+{
+ "brief": {
+  "date": "2026-11-27",
+  "headline": "European and UK shares bounced back on Thursday while Wall Street was shut for Thanksgiving",
+  "sections": [
+   {
+    "date": "2026-11-27",
+    "order": 2,
+    "section": "The big picture",
+    "text": "Tariff worries eased after the US trade office said its proposed new tariffs (taxes on imports) would be capped at levels already agreed in trade deals, 15% for the EU, Japan, South Korea, Taiwan and Switzerland, and would not start before a public hearing on 25 January. Euro zone countries also picked Spain's Pablo Hernández de Cos to succeed Christine Lagarde at the ECB, which markets read as more of the same. The DAX rose 2.1% to 25,215.52 and the FTSE 250 1.9% to 24,092.70; in London, Imperial Brands jumped about 13% after Altria (the US maker of Marlboro) said it was considering a possible cash offer (a takeover bid), Babcock rose 6.6% on a big Ministry of Defence submarine contract and miners gained as gold recovered to about $3,597 an ounce. Brent crude rose 2.1% to $96.57 a barrel, a third day of gains, after a Houthi claim of an attack on a Saudi refinery and Iranian reports of tankers hitting mines near the Strait of Hormuz. The Bank of England's Financial Stability Report said share valuations still look stretched on some measures and that AI-related borrowing is growing more complex and opaque; it kept the countercyclical capital buffer (extra capital banks must hold in good times) at 2%. With US markets closed, US share prices, the VIX and the US 10-year yield are unchanged from Wednesday."
+   },
+   {
+    "date": "2026-11-27",
+    "order": 4,
+    "section": "Today and this week",
+    "text": "US markets reopen today for a half day, closing at 18:00 UK time, and NextEra goes ex-dividend today. OPEC+ (the group of big oil producers) meets on Sunday 29 November to set 2027 output, with reports that it may simply roll over current targets. Next week brings Nvidia's ex-dividend date on 2 December and the US jobs report on 4 December, ahead of the Fed on 9 December, where a quarter-point rise is close to fully priced in. SSE goes ex-dividend on 10 December, and the Bank of England and ECB both decide on rates on 17 December."
+   },
+   {
+    "date": "2026-11-27",
+    "order": 6,
+    "section": "Concept of the day",
+    "text": "Dividends in depth: what the ex-dividend date means, why Severn Trent dipped on a strong day, and how the payout ratio and dividend cover show whether a dividend looks safe. Today's lesson goes through it, with a quiz."
+   }
+  ],
+  "standfirst": "The FTSE 100 jumped 1.75% to 10,609.30, helped by bid interest in Imperial Brands, and the Stoxx 600 rose 1.75% to 636.98."
+ },
+ "date": "2026-11-27",
+ "lesson": 22,
+ "markets": [
+  {
+   "as_of": "2026-11-26",
+   "change_pct": 1.75,
+   "kind": "Index",
+   "level": 10609.3,
+   "name": "FTSE 100",
+   "note": "UK's 100 biggest listed companies",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-26",
+   "change_pct": 1.93,
+   "kind": "Index",
+   "level": 24092.7,
+   "name": "FTSE 250",
+   "note": "The next 250: more tied to the UK economy",
+   "region": "UK"
+  },
+  {
+   "as_of": "2026-11-25",
+   "change_pct": -0.25,
+   "kind": "Index",
+   "level": 7182.78,
+   "name": "S&P 500",
+   "note": "500 large US companies",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-25",
+   "change_pct": -0.62,
+   "kind": "Index",
+   "level": 23585.8,
+   "name": "Nasdaq",
+   "note": "Tech-heavy US index",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-26",
+   "change_pct": 1.75,
+   "kind": "Index",
+   "level": 636.98,
+   "name": "Stoxx 600",
+   "note": "600 companies across Europe",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-26",
+   "change_pct": 2.08,
+   "kind": "Index",
+   "level": 25215.52,
+   "name": "DAX",
+   "note": "Germany's 40 biggest companies",
+   "region": "Europe"
+  },
+  {
+   "as_of": "2026-11-26",
+   "change_pct": 0.26,
+   "kind": "Currency",
+   "level": 1.3113,
+   "name": "GBP/USD",
+   "note": "Dollars per pound",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-26",
+   "change_pct": 0.18,
+   "kind": "Currency",
+   "level": 1.0973,
+   "name": "EUR/USD",
+   "note": "Dollars per euro",
+   "region": "FX"
+  },
+  {
+   "as_of": "2026-11-26",
+   "change_pct": 2.07,
+   "kind": "Commodity",
+   "level": 96.57,
+   "name": "Brent crude",
+   "note": "Oil, $ per barrel",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-26",
+   "change_pct": 0.56,
+   "kind": "Commodity",
+   "level": 3596.73,
+   "name": "Gold",
+   "note": "$ per ounce",
+   "region": "Global"
+  },
+  {
+   "as_of": "2026-11-25",
+   "change_pct": -1.02,
+   "kind": "Rate",
+   "level": 4.85,
+   "name": "US 10-year yield",
+   "note": "Interest rate on US government debt, %",
+   "region": "US"
+  },
+  {
+   "as_of": "2026-11-25",
+   "change_pct": 7.31,
+   "kind": "Gauge",
+   "level": 28.29,
+   "name": "VIX",
+   "note": "'Fear gauge': expected US volatility",
+   "region": "US"
+  }
+ ]
+}

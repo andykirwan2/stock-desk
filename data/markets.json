@@ -1,18 +1,18 @@
 [
  {
-  "as_of": "2026-11-25",
-  "change_pct": -0.38,
+  "as_of": "2026-11-26",
+  "change_pct": 1.75,
   "kind": "Index",
-  "level": 10426.94,
+  "level": 10609.3,
   "name": "FTSE 100",
   "note": "UK's 100 biggest listed companies",
   "region": "UK"
  },
  {
-  "as_of": "2026-11-25",
-  "change_pct": -0.93,
+  "as_of": "2026-11-26",
+  "change_pct": 1.93,
   "kind": "Index",
-  "level": 23637,
+  "level": 24092.7,
   "name": "FTSE 250",
   "note": "The next 250: more tied to the UK economy",
   "region": "UK"
@@ -36,55 +36,55 @@
   "region": "US"
  },
  {
-  "as_of": "2026-11-25",
-  "change_pct": -1.06,
+  "as_of": "2026-11-26",
+  "change_pct": 1.75,
   "kind": "Index",
-  "level": 626.03,
+  "level": 636.98,
   "name": "Stoxx 600",
   "note": "600 companies across Europe",
   "region": "Europe"
  },
  {
-  "as_of": "2026-11-25",
-  "change_pct": -1.26,
+  "as_of": "2026-11-26",
+  "change_pct": 2.08,
   "kind": "Index",
-  "level": 24702.13,
+  "level": 25215.52,
   "name": "DAX",
   "note": "Germany's 40 biggest companies",
   "region": "Europe"
  },
  {
-  "as_of": "2026-11-25",
-  "change_pct": -0.24,
+  "as_of": "2026-11-26",
+  "change_pct": 0.26,
   "kind": "Currency",
-  "level": 1.3079,
+  "level": 1.3113,
   "name": "GBP/USD",
   "note": "Dollars per pound",
   "region": "FX"
  },
  {
-  "as_of": "2026-11-25",
-  "change_pct": -0.13,
+  "as_of": "2026-11-26",
+  "change_pct": 0.18,
   "kind": "Currency",
-  "level": 1.0953,
+  "level": 1.0973,
   "name": "EUR/USD",
   "note": "Dollars per euro",
   "region": "FX"
  },
  {
-  "as_of": "2026-11-25",
-  "change_pct": 3.51,
+  "as_of": "2026-11-26",
+  "change_pct": 2.07,
   "kind": "Commodity",
-  "level": 94.61,
+  "level": 96.57,
   "name": "Brent crude",
   "note": "Oil, $ per barrel",
   "region": "Global"
  },
  {
-  "as_of": "2026-11-24",
-  "change_pct": -2.45,
+  "as_of": "2026-11-26",
+  "change_pct": 0.56,
   "kind": "Commodity",
-  "level": 3561.9,
+  "level": 3596.73,
   "name": "Gold",
   "note": "$ per ounce",
   "region": "Global"

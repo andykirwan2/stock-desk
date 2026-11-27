@@ -486,5 +486,25 @@
  {
   "meaning": "A twice-yearly Bank of England report on risks to UK banks, borrowers and markets.",
   "term": "Financial Stability Report"
+ },
+ {
+  "meaning": "The day a company checks its register to see who will receive a dividend, usually the working day after the ex-dividend date.",
+  "term": "Record date"
+ },
+ {
+  "meaning": "The share of a company's profit that it pays out as dividends; 50% means half of earnings go to shareholders.",
+  "term": "Payout ratio"
+ },
+ {
+  "meaning": "A company's earnings divided by its dividend: cover of 2 means profits could pay the dividend twice over.",
+  "term": "Dividend cover"
+ },
+ {
+  "meaning": "An offer by one company to buy all the shares of another, usually at a price above where the shares were trading.",
+  "term": "Takeover bid"
+ },
+ {
+  "meaning": "Extra capital the Bank of England makes banks hold in good times, so they can keep lending when times get tough.",
+  "term": "Countercyclical capital buffer"
  }
 ]

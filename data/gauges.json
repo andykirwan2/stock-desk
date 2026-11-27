@@ -40,13 +40,13 @@
   "value": null
  },
  {
-  "as_of": "2026-11-25",
-  "detail": "Above $90 a barrel counts as expensive, and Brent crude jumped 3.5% to settle at $94.61 on Wednesday after Yemen's Houthis said they had attacked Saudi Arabia's biggest refinery. Dearer oil feeds into fuel and transport costs, which can keep inflation and interest rates higher for longer.",
+  "as_of": "2026-11-26",
+  "detail": "Above $90 a barrel counts as expensive, and Brent crude rose 2.1% to settle at $96.57 on Thursday, a third day of gains, after a Houthi claim of an attack on a Saudi refinery and Iranian reports of tankers hitting mines near the Strait of Hormuz. Dearer oil feeds into fuel and transport costs, which can keep inflation and interest rates higher for longer.",
   "gauge": "Oil (Brent crude)",
   "id": "g5",
   "reading": "Expensive",
-  "source": "ICE settlement via Reuters (CNBC), 25 Nov",
+  "source": "ICE settlement via Nation Thailand and GSM Global News, 26 Nov",
   "unit": "$",
-  "value": 94.61
+  "value": 96.57
  }
 ]

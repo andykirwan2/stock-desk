@@ -310,8 +310,23 @@
   "quiz_d": "Raising the target to 20% to make up for the loss",
   "quiz_explain": "Rebalancing returns each holding to its chosen target, which means adding to what has fallen and trimming what has risen, a disciplined way to buy low and sell high.",
   "quiz_q": "A portfolio aims for 10% in a fund, but after a fall the fund is now 8% of the total. What does rebalancing mean here?",
-  "status": "Today",
+  "status": "Done",
   "summary": "Regular investing and rebalancing",
   "title": "Your long-term plan"
+ },
+ {
+  "body": "A dividend is a slice of profit that a company pays out in cash to its shareholders. Mature, steady businesses such as utilities and water companies tend to pay large ones. Fast-growing firms such as Nvidia pay tiny ones or none, preferring to reinvest the money in growth.\n\nFour dates matter. First the company announces the dividend. Then comes the ex-dividend date: buy before it and you get the payment, buy on or after it and you don't. The record date, usually a day later, is when the company checks who is on its register. The payment date, often a few weeks later, is when the cash lands.\n\nOn the ex-dividend date the share price usually drops by roughly the size of the dividend, because new buyers no longer get it. Severn Trent went ex-dividend on Thursday and fell 1.2% to 3,266p on a day the FTSE 100 rose 1.75%. Existing holders still get the payment, so much of that fall is value moving from the share price into cash on its way to them. NextEra goes ex-dividend today, and SSE on 10 December.\n\nHow safe is a dividend? Two checks help. The payout ratio is the share of profit paid out: 50% means half of earnings go to shareholders. Dividend cover flips it round: earnings divided by the dividend, so cover of 2 equals a payout ratio of 50%. Cover below about 1.5, or a payout ratio near or above 100%, leaves little room if profits dip, and dividends are often the first thing cut in a bad year.\n\nThat is why a very high dividend yield can be a warning rather than a bargain. It often means the price has already fallen because investors expect a cut.\n\nFinally, what happens to the cash? In an accumulating fund the dividends are reinvested for you inside the fund. With an income fund or a single share they are paid out, and you choose whether to reinvest. Over decades, reinvested dividends make up a big part of total return, and inside an ISA they are tax-free.",
+  "date": "2026-11-27",
+  "n": 22,
+  "quiz_a": "About 980p",
+  "quiz_answer": "a",
+  "quiz_b": "About 1,020p",
+  "quiz_c": "Exactly 1,000p, because dividends don't affect the price",
+  "quiz_d": "About 800p",
+  "quiz_explain": "From the ex-dividend date new buyers no longer get the 20p payment, so the price typically falls by about the dividend, all else being equal.",
+  "quiz_q": "A share closes at 1,000p the day before it goes ex-dividend, with a 20p dividend to come. If nothing else changes, where would you expect it to open on the ex-dividend date?",
+  "status": "Today",
+  "summary": "Ex-dividend dates, payout ratios and dividend cover",
+  "title": "Dividends in depth"
  }
 ]

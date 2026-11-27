@@ -78,6 +78,12 @@
   "name": "Brent crude"
  },
  {
+  "change_pct": 2.07,
+  "date": "2026-11-26",
+  "level": 96.57,
+  "name": "Brent crude"
+ },
+ {
   "date": "2026-10-30",
   "name": "DAX",
   "level": 25818.21,
@@ -153,6 +159,12 @@
   "change_pct": -1.26,
   "date": "2026-11-25",
   "level": 24702.13,
+  "name": "DAX"
+ },
+ {
+  "change_pct": 2.08,
+  "date": "2026-11-26",
+  "level": 25215.52,
   "name": "DAX"
  },
  {
@@ -234,6 +246,12 @@
   "name": "EUR/USD"
  },
  {
+  "change_pct": 0.18,
+  "date": "2026-11-26",
+  "level": 1.0973,
+  "name": "EUR/USD"
+ },
+ {
   "date": "2026-10-30",
   "name": "FTSE 100",
   "level": 10729.78,
@@ -312,6 +330,12 @@
   "name": "FTSE 100"
  },
  {
+  "change_pct": 1.75,
+  "date": "2026-11-26",
+  "level": 10609.3,
+  "name": "FTSE 100"
+ },
+ {
   "date": "2026-10-29",
   "name": "FTSE 250",
   "level": 24674.16,
@@ -381,6 +405,12 @@
   "change_pct": -0.93,
   "date": "2026-11-25",
   "level": 23637,
+  "name": "FTSE 250"
+ },
+ {
+  "change_pct": 1.93,
+  "date": "2026-11-26",
+  "level": 24092.7,
   "name": "FTSE 250"
  },
  {
@@ -462,6 +492,12 @@
   "name": "GBP/USD"
  },
  {
+  "change_pct": 0.26,
+  "date": "2026-11-26",
+  "level": 1.3113,
+  "name": "GBP/USD"
+ },
+ {
   "date": "2026-10-30",
   "name": "Gold",
   "level": 3874.62,
@@ -531,6 +567,12 @@
   "change_pct": -2.45,
   "date": "2026-11-24",
   "level": 3561.9,
+  "name": "Gold"
+ },
+ {
+  "change_pct": 0.56,
+  "date": "2026-11-26",
+  "level": 3596.73,
   "name": "Gold"
  },
  {
@@ -765,6 +807,12 @@
   "change_pct": -1.06,
   "date": "2026-11-25",
   "level": 626.03,
+  "name": "Stoxx 600"
+ },
+ {
+  "change_pct": 1.75,
+  "date": "2026-11-26",
+  "level": 636.98,
   "name": "Stoxx 600"
  },
  {

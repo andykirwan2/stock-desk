@@ -1,25 +1,25 @@
 {
- "date": "2026-11-26",
- "headline": "Wall Street clawed back most of a sharp morning sell-off on Wednesday",
+ "date": "2026-11-27",
+ "headline": "European and UK shares bounced back on Thursday while Wall Street was shut for Thanksgiving",
  "sections": [
   {
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "order": 2,
    "section": "The big picture",
-   "text": "Core PCE inflation (the Fed's preferred measure, which leaves out food and energy) rose to 3.3% in October, a touch above the 3.2% expected, and the US economy grew at a 4.3% annual rate in the third quarter, faster than first thought; traders now see about a 98% chance of a Fed rate rise on 9 December. At the same time the US proposed new tariffs (taxes on imports) of up to 20% on 14 trading partners including China and the EU, starting January at the earliest. Chip and AI shares took the brunt, with Nvidia down 3.9%, but bargain hunters stepped in during the afternoon and the S&P 500 closed only 0.25% lower at 7,182.78, while the VIX (Wall Street's 'fear gauge') rose 7.3% to 28.29. In Europe, which had already closed, the Stoxx 600 fell 1.1% to 626.03 and the DAX 1.3% to 24,702.13; in London, defensive shares such as Imperial Brands and Unilever rose while banks and miners fell, and the FTSE 250 lost 0.9% to 23,637.00, a four-month low. Brent crude jumped 3.5% to $94.61 a barrel after Yemen's Houthis said they had attacked Saudi Arabia's biggest refinery, and the US 10-year yield eased to about 4.85% as money moved into bonds."
+   "text": "Tariff worries eased after the US trade office said its proposed new tariffs (taxes on imports) would be capped at levels already agreed in trade deals, 15% for the EU, Japan, South Korea, Taiwan and Switzerland, and would not start before a public hearing on 25 January. Euro zone countries also picked Spain's Pablo Hernández de Cos to succeed Christine Lagarde at the ECB, which markets read as more of the same. The DAX rose 2.1% to 25,215.52 and the FTSE 250 1.9% to 24,092.70; in London, Imperial Brands jumped about 13% after Altria (the US maker of Marlboro) said it was considering a possible cash offer (a takeover bid), Babcock rose 6.6% on a big Ministry of Defence submarine contract and miners gained as gold recovered to about $3,597 an ounce. Brent crude rose 2.1% to $96.57 a barrel, a third day of gains, after a Houthi claim of an attack on a Saudi refinery and Iranian reports of tankers hitting mines near the Strait of Hormuz. The Bank of England's Financial Stability Report said share valuations still look stretched on some measures and that AI-related borrowing is growing more complex and opaque; it kept the countercyclical capital buffer (extra capital banks must hold in good times) at 2%. With US markets closed, US share prices, the VIX and the US 10-year yield are unchanged from Wednesday."
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "order": 4,
    "section": "Today and this week",
-   "text": "US markets are shut today for Thanksgiving and close early on Friday (at 18:00 UK time), so expect thin trading. The Bank of England publishes its Financial Stability Report today, and Severn Trent goes ex-dividend today, so its price will drop by roughly the dividend as new buyers no longer get it; NextEra follows on Friday. OPEC+ (the group of big oil producers) meets on Sunday 29 November to set 2027 output, which matters for oil after this week's jump. Next week brings Nvidia's ex-dividend date on 2 December and the US jobs report on 4 December, ahead of the Fed on 9 December (about a 98% chance of a quarter-point rise priced) and the Bank of England and ECB on 17 December (about an 80% chance of a Bank of England rise)."
+   "text": "US markets reopen today for a half day, closing at 18:00 UK time, and NextEra goes ex-dividend today. OPEC+ (the group of big oil producers) meets on Sunday 29 November to set 2027 output, with reports that it may simply roll over current targets. Next week brings Nvidia's ex-dividend date on 2 December and the US jobs report on 4 December, ahead of the Fed on 9 December, where a quarter-point rise is close to fully priced in. SSE goes ex-dividend on 10 December, and the Bank of England and ECB both decide on rates on 17 December."
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "order": 6,
    "section": "Concept of the day",
-   "text": "Your long-term plan: how investing a set amount each month and rebalancing once or twice a year turn a scary week like this into a routine one. Today's lesson goes through it, with a quiz."
+   "text": "Dividends in depth: what the ex-dividend date means, why Severn Trent dipped on a strong day, and how the payout ratio and dividend cover show whether a dividend looks safe. Today's lesson goes through it, with a quiz."
   }
  ],
- "standfirst": "The Nasdaq had fallen as much as 4.6% on hotter US inflation and new tariff plans, but closed down just 0.6% at 23,585.80, while the Dow rose 0.3% to 50,182.95. The FTSE 100 slipped 0.4% to 10,426.94."
+ "standfirst": "The FTSE 100 jumped 1.75% to 10,609.30, helped by bid interest in Imperial Brands, and the Stoxx 600 rose 1.75% to 636.98."
 }
